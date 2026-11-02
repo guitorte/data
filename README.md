@@ -6,13 +6,15 @@ O caso central é o Brasil. Em 2024, o Supremo suspendeu o X, que cedeu em cinco
 
 > **Pergunta de trabalho.** Uma multa pontual costuma funcionar como preço: a plataforma paga e segue em frente. O que faz uma plataforma obedecer? E o que acontece quando o governo do país de origem dela compra a briga?
 
-**Situação em 2 nov. 2026.** A pesquisa está em fase exploratória. O rascunho do artigo está parado; o trabalho avança por "expedições" (dossiês e bases de dados) que devem decidir qual pergunta o trabalho responde. O resumo está em [`docs/estado-atual.md`](docs/estado-atual.md).
+**Situação em 2 nov. 2026 (14h30).** A pesquisa está em fase exploratória e o rascunho do artigo está parado. Já foram feitas as expedições da Seção 301, das Bases 1 a 3 e da tramitação no Congresso; nesta última, o teste da P2 deu inconclusivo. Falta a Base 3 ampliada antes do ponto de controle, em que se escolhe a pergunta do trabalho. O resumo técnico está em [`docs/estado-atual.md`](docs/estado-atual.md), e a versão em linguagem simples em [`docs/resumo-simples.md`](docs/resumo-simples.md).
 
 ## Por onde começar
 
 | Se você quer... | Leia |
 |---|---|
 | saber onde paramos e o que vem agora | [`docs/estado-atual.md`](docs/estado-atual.md) |
+| entender o percurso em linguagem simples | [`docs/resumo-simples.md`](docs/resumo-simples.md) |
+| ver as ideias de artigos | [`docs/ideias-de-artigos.md`](docs/ideias-de-artigos.md) |
 | ver o que já sabemos, e com que grau de certeza | [`docs/achados.md`](docs/achados.md) |
 | entender a tese e como ela mudou | [`docs/tese-e-hipoteses.md`](docs/tese-e-hipoteses.md) |
 | ver o plano | [`ROADMAP.md`](ROADMAP.md) |
@@ -36,6 +38,9 @@ data/                         (este repositório)
 │   ├── decisoes.md           registro datado das decisões
 │   ├── previsoes.md          previsões feitas antes dos dados
 │   ├── metodo.md             testes, marcações, medidas e limites
+│   ├── protocolos/           protocolos registrados antes dos dados
+│   ├── resumo-simples.md     o percurso em linguagem simples
+│   ├── ideias-de-artigos.md  ideias de artigos, acadêmicos e para leigos
 │   └── conversas/            resumos das conversas que produziram o material
 │
 ├── manuscrito/               o texto do artigo (parado desde 2 nov. 2026)
@@ -44,7 +49,9 @@ data/                         (este repositório)
 │
 ├── dossies/                  investigações fechadas sobre um tema
 │   ├── secao-301.md          o processo comercial americano contra o Brasil
-│   └── linha-do-tempo-brasil-eua.md   47 eventos, 2024 a 2026
+│   ├── linha-do-tempo-brasil-eua.md   47 eventos, 2024 a 2026
+│   ├── tramitacao-pl2630.md  estudo de caso do PL 2630 no Senado e na Câmara
+│   └── tramitacao-teste-p2.md  teste da P2 com 1.121 projetos com urgência
 │
 ├── bases/                    uma linha por caso, com campos fixos
 │   ├── base1-aplicacao-no-brasil.md      ordens contra plataformas no Brasil

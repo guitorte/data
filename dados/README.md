@@ -32,3 +32,32 @@
 | `senado_discursos_impeachment_ministros_mensal.csv` | mes, discursos que associam impeachment a ministros ou ao STF | Versão estrita; cerca de 3 em 4 acertos numa amostra de 12. |
 
 Os limites das medidas estão em `docs/metodo.md`, seção 6.
+
+## brutos/camara/ e referencia/
+
+- `brutos/camara/referencia_tipos_tramitacao_2026-11-02.json`: os 235 tipos de evento de tramitação da Câmara, classificados no protocolo da tramitação.
+- `referencia/calendario_eleitoral.csv`: datas dos turnos das eleições de 2016 a 2026; a coluna `status` diz o que já foi conferido.
+- `referencia/urgencias_decisoes_P.csv`: decisões, projeto a projeto, da regra P (plataforma) e do subconjunto "conteúdo", com justificativa.
+
+## brutos/tramitacao/ (`scripts/tramitacao_coleta.py`)
+
+Ficha e tramitação do PL 2630/2020 na Câmara (id 2256735) e processo no Senado (id 7914763), coletados em 2 nov. 2026.
+
+## brutos/urgencias/ (`scripts/urgencias_coleta.py`, `urgencias_alvos.py`, `urgencias_tramitacoes.py`)
+
+| Arquivo | Conteúdo |
+|---|---|
+| `votacoes_plen_AAAA-MM.json.gz` | Votações do plenário da Câmara, mês a mês, fev. 2015 a abr. 2026 (14.960 no total). |
+| `requerimentos.json` | 1.478 requerimentos de urgência aprovados, com a votação e os PLs alvo (`alvos`). |
+| `pls_alvo.json` | Fichas dos 1.153 PLs alvo (ementa e indexação); 30 vazias. |
+| `tramitacoes/{id}.json.gz` | Tramitação na Câmara de cada PL classificado (1.123). |
+
+## processados/ da tramitação
+
+| Arquivo | Conteúdo |
+|---|---|
+| `pl2630_camara_eventos.csv`, `pl2630_camara_intervalos.csv`, `pl2630_resumo.json` | Estudo de caso do PL 2630 (`scripts/tramitacao_pl2630.py`). |
+| `urgencias_classificacao.csv` | Classificação de cada PL (P, C, G, sem_ficha), feita só pela ementa e pela indexação (`scripts/urgencias_classifica.py`). |
+| `urgencias_esperas.csv` | Uma linha por PL: urgência, deliberação, espera, censura, adiamentos (`scripts/urgencias_teste.py`). |
+| `urgencias_resultado.json` | Medianas, percentis, decisão pela regra, segunda linha e controle de qualidade. |
+

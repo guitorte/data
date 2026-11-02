@@ -1,54 +1,77 @@
 # Estado atual
 
-**Última atualização:** 2 nov. 2026, na migração da conversa no Claude para este repositório (`guitorte/data`, público).
+**Última atualização:** 2 nov. 2026, 14h30, no fim da expedição da tramitação (repositório `guitorte/data`, público).
 
-Este arquivo é a passagem de turno. Leia-o no começo de cada sessão e atualize-o no fim.
+Este arquivo é a passagem de turno. Leia-o no começo de cada sessão e atualize-o no fim. Para uma versão em linguagem simples de todo o percurso, leia `docs/resumo-simples.md`.
 
 ## Onde estamos
 
-A pesquisa está em **fase exploratória**. Até 2 nov. 2026, o documento no Claude Docs era o produto: tudo ia para o rascunho do artigo. Depois, ele virou acampamento-base. O rascunho está parado desde o dossiê da Seção 301, e as expedições (dossiê, bases de dados) voltam com achados que ficam registrados aqui.
+**Fase exploratória.** O manuscrito está parado. As expedições trazem dados que ajudam a escolher a pergunta do trabalho.
 
-O usuário concordou com essa etapa ("estamos de acordo nessa etapa exploratória"). O risco a vigiar é o simétrico: explorar sem ponto de parada. Por isso o `ROADMAP.md` tem um ponto de controle.
+Expedições já feitas:
+
+- Dossiê da Seção 301.
+- Bases 1, 2 e 3.
+- Tramitação no Congresso, com o estudo de caso do PL 2630 e o teste da P2.
+
+Falta uma expedição antes do **ponto de controle 1**: a Base 3 ampliada (Câmara, oradores, partidos).
 
 ## A tese em revisão (proposta, ainda não aprovada)
 
-O centro passa ao **governo do país-sede**. A queixa das plataformas é ativada por decisão política e depois segue sozinha, mesmo contra o aliado local.
-
-Do lado brasileiro, o **modo de aplicação** da lei faz uma troca. Por ser rápido, individual e sem instância acima, ele ganha credibilidade, mas perde legitimidade e oferece um rosto à retaliação.
+- **País-sede.** Quem escala o conflito é o governo do país de origem da plataforma. Ele decide quando adotar a queixa, e o instrumento comercial segue sozinho, mesmo contra o aliado local.
+- **Brasil, o modo de aplicação.** Um tribunal rápido, individual e sem instância acima torna a exclusão crível. Em troca, perde legitimidade e oferece um rosto à retaliação.
+- **Brasil, os porteiros.** Poucas pessoas têm a chave. O ministro decide sozinho; o presidente da Casa decide o que não anda.
 
 A formulação completa e o histórico estão em `docs/tese-e-hipoteses.md`.
 
+## O que a última expedição mostrou (tramitação, 2 nov. 2026)
+
+- **O caso do PL 2630.** Passou no Senado em 51 dias. Na Câmara, a urgência foi aprovada em abr. 2023, e o projeto saiu de pauta uma semana depois por "prerrogativa" do presidente da Casa. Nunca foi votado. Uma semana depois da retirada, o STF abriu inquérito sobre a campanha do Google e do Telegram contra o projeto. Fonte: `dossies/tramitacao-pl2630.md`.
+- **O teste da P2,** com 1.121 projetos com urgência aprovada entre 2015 e 2026, deu **inconclusivo** pela regra registrada. Fonte: `dossies/tramitacao-teste-p2.md`.
+  - A "gaveta" é comum a qualquer tema: um em cada quatro projetos complexos com urgência nunca é votado.
+  - Nenhum adiamento de projeto de plataforma caiu em janela eleitoral.
+  - Na exploração, há mais projetos de plataforma na gaveta (5 de 9, contra 26%), sobretudo os de responsabilidade e conteúdo. Vale só como palha ao vento.
+- **Lição de método:** o percentil conservador registrado ficou quase inalcançável porque um quarto do controle nunca foi votado (desvio 8 do protocolo).
+
 ## Decisões pendentes (do usuário)
 
-1. **Escolher a pergunta:**
+1. **Escolher a pergunta,** no ponto de controle 1:
    - soberania: como um Estado resiste;
    - adoção pelo país-sede: quando um governo compra a briga das plataformas;
    - obediência: quando as plataformas cumprem.
-2. **Aprovar ou não a tese reformulada** e, depois da pergunta, a reescrita da seção 2 do rascunho.
-3. **Registrar a previsão do aliado derrotado,** suspeita 7 contra suspeita 16. Está em `docs/previsoes.md` como proposta.
-4. **Definir a fonte da verdade.** Proposta: daqui em diante o repositório é a versão canônica, e o Claude Docs fica congelado em 2 nov. 2026 como versão de leitura. Sem isso, os dois divergem.
-5. *(Superada pela migração.)* Reorganizar as abas do documento em manuscrito e laboratório. O repositório já faz essa separação (`manuscrito/` contra `dossies/`, `bases/` e `docs/`).
-
-## Em andamento
-
-A **expedição da tramitação** (ROADMAP, item 2) começou com a previsão P2 registrada em 2 nov. 2026. O protocolo foi aprovado em 2 nov. 2026, e as etapas 2.2 e 2.3 foram feitas (`dossies/tramitacao-pl2630.md`). O PL 2630 passou no Senado em 51 dias. Na Câmara, só há a urgência aprovada (25 abr. 2023) e a retirada de pauta (2 maio 2023), e nenhum andamento formal desde então. Foram registrados três desvios no protocolo. As etapas 2.4 e 2.5 também foram feitas. A população tem 1.153 PLs com urgência aprovada na Câmara entre 2015 e 2026: 9 de plataforma (6 no subconjunto P-conteúdo), 264 no controle complexo, 850 no controle geral e 30 sem ficha. A classificação foi registrada antes de qualquer desfecho ser aberto. A etapa 2.6 também foi feita. O teste da P2 deu **inconclusivo** pela regra registrada, sem padrão eleitoral nos adiamentos. Na exploração, a gaveta aparece como forma comum do atraso, um pouco mais frequente nos projetos de plataforma, o que vale só como palha ao vento. Ficam pendentes o controle de qualidade (b) e a escolha do próximo item do roadmap (Base 3 ampliada, antes do ponto de controle 1). As etapas e o esforço recomendado para cada uma estão no `ROADMAP.md`.
-
-## Entrada
-
-Em 2 nov. 2026 foram importadas três conversas do usuário (só as respostas), triadas e registradas em `entrada/triagem.md`. As pistas foram para a Base 1, a Base 3 e a seção 10 de `docs/tese-e-hipoteses.md`. Nenhuma foi conferida ainda. Essa conferência é a etapa de esforço alto, que depende do aval do usuário.
+2. **Aprovar ou não a tese reformulada.** Depois da escolha da pergunta, vem a reescrita da seção 2 do rascunho.
+3. **Registrar previsões ainda em proposta** (`docs/previsoes.md`):
+   - P1: o aliado derrotado, 7 contra 16;
+   - P3: IA e o vazio que vai para o tribunal.
+4. **Definir a fonte da verdade.** Proposta: o repositório; o Claude Docs fica congelado em 2 nov. 2026.
+5. **Escolher o primeiro texto.** A lista, já submetida a dois testes de "e daí?" e a um teste de estresse, está em `docs/ideias-de-artigos.md`.
 
 ## Próximos passos
 
-A ordem está no `ROADMAP.md`. Em resumo:
+| Opção | Esforço recomendado |
+|---|---|
+| Base 3 ampliada: Câmara, oradores, partidos; última expedição antes do ponto de controle 1 | médio |
+| Controle de qualidade (b) do teste da P2, pendente | médio |
+| Registrar uma nova previsão com a régua da "gaveta", definida antes, para projetos de IA e de conteúdo daqui para a frente | alto |
+| Ponto de controle 1: escolher a pergunta | máximo |
 
-1. pôr o repositório de pé;
-2. tramitação do PL 2630 e de outros projetos sobre plataformas;
-3. Base 3 ampliada: Câmara, oradores e partidos;
-4. Canadá × Brasil;
-5. lacunas da Base 1;
-6. comentários escritos da Seção 301, com download manual.
+Na fila, sem prazo:
 
-Depois dos passos 2 e 3, vem o ponto de controle 1.
+- Canadá × Brasil;
+- lacunas da Base 1;
+- comentários escritos da Seção 301 (download manual do usuário);
+- conferência das pistas da `entrada/` (esforço alto).
+
+## Entrada
+
+Três conversas do usuário foram importadas (só as respostas), triadas e registradas em `entrada/triagem.md`. As pistas foram para a Base 1, a Base 3 e as suspeitas 18 a 20. Nenhuma foi conferida ainda.
+
+## Regras de trabalho
+
+- Seguir o `standards.txt`.
+- Dividir cada tarefa em etapas, com o esforço recomendado, e esperar a confirmação do usuário.
+- Registrar previsões e protocolos antes dos dados.
+- Commits pequenos.
 
 ## Verificações pendentes
 
