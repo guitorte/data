@@ -35,8 +35,8 @@ O documento deixou de ser o produto e virou acampamento-base. Cada expedição v
    - [x] 2.4 O que veio antes de cada adiamento relevante: campanhas, eleições, crises, com fontes datadas (alto). Resultado: 2022 com padrão de complexidade, 2023 misto; o porteiro aparece.
    - [x] **Pausa:** o usuário decidiu montar o universo (2 nov. 2026), porque a comparação é necessária para dizer se a demora é intencional.
    - [x] 2.5 Universo de projetos sobre plataformas e grupo de controle: seleção e coleta (médio). 1.153 PLs com urgência aprovada (2015–2026): 9 de plataforma pela regra P (6 no subconjunto P-conteúdo), 264 no controle complexo, 850 no controle geral, 30 sem ficha. Classificação registrada antes de abrir os desfechos.
-   - [ ] 2.6 Comparação e teste da P2, com grau de certeza (alto)
-   - [ ] 2.7 Registro: base, fontes, achados, estado atual, commit (baixo)
+   - [x] 2.6 Comparação e teste da P2, com grau de certeza (alto). Inconclusivo pela regra; sem padrão eleitoral; a gaveta como forma comum do atraso (`dossies/tramitacao-teste-p2.md`).
+   - [x] 2.7 Registro: base, fontes, achados, estado atual, commit (baixo)
 3. [ ] **Base 3 ampliada.**
    - Discursos da Câmara, que têm texto integral.
    - Quem fala dos ministros, e por qual partido.

@@ -1,0 +1,578 @@
+{
+ "populacao": 1121,
+ "grupos": {
+  "P": {
+   "n": 9,
+   "mediana_KM_dias": 439,
+   "censurados": 3,
+   "deliberados_em_ate_30_dias": 3
+  },
+  "P_sem_2630": {
+   "n": 8,
+   "mediana_KM_dias": 125,
+   "censurados": 2,
+   "deliberados_em_ate_30_dias": 3
+  },
+  "P_conteudo": {
+   "n": 6,
+   "mediana_KM_dias": 125,
+   "censurados": 2,
+   "deliberados_em_ate_30_dias": 2
+  },
+  "P_conteudo_sem_2630": {
+   "n": 5,
+   "mediana_KM_dias": 125,
+   "censurados": 1,
+   "deliberados_em_ate_30_dias": 2
+  },
+  "C": {
+   "n": 264,
+   "mediana_KM_dias": 23,
+   "censurados": 60,
+   "deliberados_em_ate_30_dias": 139
+  },
+  "G": {
+   "n": 848,
+   "mediana_KM_dias": 29,
+   "censurados": 221,
+   "deliberados_em_ate_30_dias": 431
+  }
+ },
+ "P_vs_C": {
+  "decisao": "inconclusivo",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.742,
+    "pct_sup": 0.777,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 1579/2025",
+    "espera_dias": 416,
+    "censurado": 1,
+    "pct_inf": 0.739,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.742,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2630/2020",
+    "espera_dias": 1285,
+    "censurado": 1,
+    "pct_inf": 0.761,
+    "pct_sup": 1.0,
+    "leitura": "acima_P75"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.273,
+    "pct_sup": 0.273,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.667,
+    "pct_sup": 0.667,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 5587/2016",
+    "espera_dias": 0,
+    "censurado": 0,
+    "pct_inf": 0.0,
+    "pct_sup": 0.0,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 8889/2017",
+    "espera_dias": 811,
+    "censurado": 0,
+    "pct_inf": 0.758,
+    "pct_sup": 0.822,
+    "leitura": "acima_P75"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "P_vs_G": {
+  "decisao": "inconclusivo",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.704,
+    "pct_sup": 0.758,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 1579/2025",
+    "espera_dias": 416,
+    "censurado": 1,
+    "pct_inf": 0.703,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.704,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2630/2020",
+    "espera_dias": 1285,
+    "censurado": 1,
+    "pct_inf": 0.735,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.287,
+    "pct_sup": 0.287,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.629,
+    "pct_sup": 0.629,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 5587/2016",
+    "espera_dias": 0,
+    "censurado": 0,
+    "pct_inf": 0.0,
+    "pct_sup": 0.0,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 8889/2017",
+    "espera_dias": 811,
+    "censurado": 0,
+    "pct_inf": 0.732,
+    "pct_sup": 0.812,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "P_sem_2630_vs_C": {
+  "decisao": "inconclusivo",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.742,
+    "pct_sup": 0.777,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 1579/2025",
+    "espera_dias": 416,
+    "censurado": 1,
+    "pct_inf": 0.739,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.742,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.273,
+    "pct_sup": 0.273,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.667,
+    "pct_sup": 0.667,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 5587/2016",
+    "espera_dias": 0,
+    "censurado": 0,
+    "pct_inf": 0.0,
+    "pct_sup": 0.0,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 8889/2017",
+    "espera_dias": 811,
+    "censurado": 0,
+    "pct_inf": 0.758,
+    "pct_sup": 0.822,
+    "leitura": "acima_P75"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "P_sem_2630_vs_G": {
+  "decisao": "inconclusivo",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.704,
+    "pct_sup": 0.758,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 1579/2025",
+    "espera_dias": 416,
+    "censurado": 1,
+    "pct_inf": 0.703,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.704,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.287,
+    "pct_sup": 0.287,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.629,
+    "pct_sup": 0.629,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 5587/2016",
+    "espera_dias": 0,
+    "censurado": 0,
+    "pct_inf": 0.0,
+    "pct_sup": 0.0,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 8889/2017",
+    "espera_dias": 811,
+    "censurado": 0,
+    "pct_inf": 0.732,
+    "pct_sup": 0.812,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "P_conteudo_vs_C": {
+  "decisao": "inconclusivo",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.742,
+    "pct_sup": 0.777,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.742,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2630/2020",
+    "espera_dias": 1285,
+    "censurado": 1,
+    "pct_inf": 0.761,
+    "pct_sup": 1.0,
+    "leitura": "acima_P75"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.273,
+    "pct_sup": 0.273,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.667,
+    "pct_sup": 0.667,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "P_conteudo_vs_G": {
+  "decisao": "inconclusivo",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.704,
+    "pct_sup": 0.758,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.704,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2630/2020",
+    "espera_dias": 1285,
+    "censurado": 1,
+    "pct_inf": 0.735,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.287,
+    "pct_sup": 0.287,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.629,
+    "pct_sup": 0.629,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "P_conteudo_sem_2630_vs_C": {
+  "decisao": "compatível com complexidade",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.742,
+    "pct_sup": 0.777,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.742,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.273,
+    "pct_sup": 0.273,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.667,
+    "pct_sup": 0.667,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "P_conteudo_sem_2630_vs_G": {
+  "decisao": "compatível com complexidade",
+  "projetos": [
+   {
+    "pl": "PL 130/2020",
+    "espera_dias": 439,
+    "censurado": 0,
+    "pct_inf": 0.704,
+    "pct_sup": 0.758,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 2610/2025",
+    "espera_dias": 436,
+    "censurado": 1,
+    "pct_inf": 0.704,
+    "pct_sup": 1.0,
+    "leitura": "indeterminado"
+   },
+   {
+    "pl": "PL 3444/2023",
+    "espera_dias": 6,
+    "censurado": 0,
+    "pct_inf": 0.287,
+    "pct_sup": 0.287,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 4709/2025",
+    "espera_dias": 125,
+    "censurado": 0,
+    "pct_inf": 0.629,
+    "pct_sup": 0.629,
+    "leitura": "ate_P75"
+   },
+   {
+    "pl": "PL 9348/2017",
+    "espera_dias": 1,
+    "censurado": 0,
+    "pct_inf": 0.129,
+    "pct_sup": 0.129,
+    "leitura": "ate_P75"
+   }
+  ]
+ },
+ "segunda_linha": {
+  "P": {
+   "adiamentos": 10,
+   "em_janela": 0,
+   "parcela": 0.0
+  },
+  "P_sem_2630": {
+   "adiamentos": 9,
+   "em_janela": 0,
+   "parcela": 0.0
+  },
+  "C": {
+   "adiamentos": 174,
+   "em_janela": 10,
+   "parcela": 0.057
+  },
+  "G": {
+   "adiamentos": 483,
+   "em_janela": 48,
+   "parcela": 0.099
+  },
+  "esperado_por_acaso": "cerca de 1/6"
+ },
+ "qc_a": {
+  "amostra": [
+   "PL 2122/2025",
+   "PL 4272/2021",
+   "PL 7687/2017",
+   "PL 800/2024",
+   "PL 1971/2025",
+   "PL 3117/2024",
+   "PL 5608/2023",
+   "PL 7351/2006",
+   "PL 591/2021",
+   "PL 33/2021",
+   "PL 1010/2021",
+   "PL 1749/2022",
+   "PL 2052/2024",
+   "PL 3935/2008",
+   "PL 1923/2024",
+   "PL 6132/2025",
+   "PL 10592/2018",
+   "PL 7323/2014",
+   "PL 4238/2012",
+   "PL 3006/2022"
+  ],
+  "com_196_na_data": 20,
+  "toda_populacao_com_196": 1110
+ }
+}

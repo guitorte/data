@@ -100,3 +100,17 @@ O projeto é forte, mas ainda não é artigo de periódico de ponta. As lacunas 
 - Comentários escritos da Seção 301, que precisam de download manual.
 
 **Regras de trabalho.** Seguir o standards.txt; citar só o que foi lido; marcar inferências; registrar fontes e consultas em cada aba.
+
+## 9. Tramitação no Congresso (expedição de 2 nov. 2026)
+
+- **Estabelecido:**
+  - o PL 2630 passou no Senado em 51 dias;
+  - na Câmara, teve a urgência aprovada (abr. 2023) e foi retirado de pauta uma semana depois por decisão do presidente da Casa ("prerrogativa"), e nunca foi votado;
+  - em 2023, a retirada coincidiu com campanha das plataformas e com divergência de mérito (caso misto).
+- **Estabelecido:** em 12 maio 2023, a pedido da PGR a partir de notícia-crime da Câmara, Moraes abriu inquérito sobre a campanha do Google e do Telegram contra o projeto (Inq. 4.933). A briga legislativa virou caso no STF.
+- **Em aberto (P2):** se o atraso dos projetos sobre plataformas é estratégia ou complexidade. O teste com 1.121 projetos com urgência aprovada deu **inconclusivo** pela regra registrada.
+- **Estabelecido:**
+  - a "gaveta" é comum na Câmara: um em cada quatro projetos complexos com urgência aprovada nunca chega a voto;
+  - nenhum adiamento dos projetos de plataforma caiu em janela eleitoral.
+- **Palha ao vento (exploratório):** os projetos de plataforma caem mais na gaveta (5 de 9, contra 26%), sobretudo os de responsabilidade e moderação de conteúdo.
+
