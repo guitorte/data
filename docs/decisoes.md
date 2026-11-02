@@ -24,6 +24,7 @@ Datas em 2026. "Usuário" é Guilherme; "proposta" é o que o Claude sugeriu e a
 | 2 nov. | Livros e documentos de terceiros com direitos ficam fora do repositório | conversa | Direito autoral. Os livros seguem no Google Drive. |
 | 2 nov. | Registrar a previsão P2 (atraso legislativo: estratégia ou complexidade) antes de abrir os dados | usuário ("Registre") | `docs/previsoes.md`. |
 | 2 nov. | Toda tarefa é dividida em etapas com nível de esforço recomendado, e o usuário confirma antes de prosseguir | usuário | Economizar tokens e concentrar esforço onde um erro se propaga. Regra em `CLAUDE.md`. |
+| 2 nov. | Criar `entrada/`, uma caixa de entrada com triagem para material de fora. O que vem de outras conversas entra como pista | usuário (pedido) e conversa (desenho) | Trazer pesquisas de outras abas sem misturá-las com achados verificados; o repositório é público. |
 | 2 nov. | O repositório é `guitorte/data` e é público | usuário | Escolha feita depois do aviso de que o rascunho e as notas de trabalho ficariam abertos. |
 
 ## Pendentes

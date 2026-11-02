@@ -49,6 +49,24 @@ Toda expedição de pesquisa deixa três rastros:
 
 Ao encerrar uma sessão, atualize `docs/estado-atual.md` (data, o que mudou, próximos passos) e proponha um commit.
 
+## Material de entrada (`entrada/`)
+
+O usuário traz material de fora por `entrada/novos/`. Também pode pedir que você importe uma conversa dele com o Claude; nesse caso, use as ferramentas de busca e leitura de conversas e importe só o que ele pedir. Instruções para o usuário estão em `entrada/LEIAME.md`.
+
+No começo da sessão, ou quando o usuário pedir, veja se há arquivos em `entrada/novos/` além do LEIAME. Se houver, avise e proponha a triagem (esforço médio). Para cada item:
+
+1. **Direitos e privacidade.** O repositório é público. Se o item tiver texto integral protegido por direito autoral ou dados pessoais, avise o usuário antes de qualquer coisa. Apagar o arquivo não o tira do histórico do Git; diga isso.
+2. **Classificação:** primária, pesquisa, nota ou terceiros. Tudo o que vem de outras conversas é **pista**, não fonte. As referências que ele cita precisam ser abertas e lidas antes de virar achado.
+3. **Registro:** uma linha em `entrada/triagem.md`.
+4. **Destino:**
+   - fontes primárias públicas vão para `fontes/` e para o catálogo;
+   - pistas vão para os candidatos da base ou do dossiê;
+   - suspeitas novas vão para `docs/tese-e-hipoteses.md`.
+
+   Nada vai direto para `docs/achados.md`.
+5. **Arquivo:** mova o original com `git mv` para `entrada/triados/`, sem editá-lo.
+6. **Commit.** A conferência das afirmações é outra etapa (esforço alto) e só acontece com a confirmação do usuário.
+
 ## Direitos autorais
 
 - **Livros não entram no repositório.** Eles ficam na pasta "Pdfs" do Google Drive do usuário (lista em `fontes/livros.md`). Se precisar deles, use o conector do Google Drive ou peça ao usuário. Uma pasta local `livros/` está no `.gitignore` para uso temporário.

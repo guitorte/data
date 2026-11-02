@@ -17,6 +17,7 @@ O caso central é o Brasil. Em 2024, o Supremo suspendeu o X, que cedeu em cinco
 | entender a tese e como ela mudou | [`docs/tese-e-hipoteses.md`](docs/tese-e-hipoteses.md) |
 | ver o plano | [`ROADMAP.md`](ROADMAP.md) |
 | conferir uma fonte | [`fontes/catalogo.md`](fontes/catalogo.md) e a seção "Fontes" de cada base |
+| trazer documentos ou pesquisas de outras conversas | [`entrada/LEIAME.md`](entrada/LEIAME.md) |
 | conhecer as regras de pesquisa | [`standards.txt`](standards.txt) (obrigatório) e [`docs/metodo.md`](docs/metodo.md) |
 
 ## Mapa do repositório
@@ -61,6 +62,7 @@ data/                         (este repositório)
 │   ├── primarias-eua/        documentos do governo americano (domínio público)
 │   └── textos-extraidos/     versão em texto dos documentos longos, para busca
 │
+├── entrada/                  caixa de entrada: material de fora antes da triagem (ver entrada/LEIAME.md)
 ├── referencias/              a lista inicial de referências (os códigos U# do esqueleto)
 └── notebooklm/               o prompt e as perguntas para o caderno do NotebookLM
 ```
