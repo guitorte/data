@@ -32,8 +32,8 @@ O documento deixou de ser o produto e virou acampamento-base. Cada expedição v
    - [x] 2.1 Protocolo, antes de abrir os dados: definições, regra de seleção, grupo de controle, janela eleitoral (alto). Aprovado em 2 nov. 2026.
    - [x] 2.2 Coleta da tramitação do PL 2630 no Senado e na Câmara, por script (baixo)
    - [x] 2.3 Linha do tempo do PL 2630: intervalos parados, pautas, urgências (médio). Em `dossies/tramitacao-pl2630.md`.
-   - [ ] 2.4 O que veio antes de cada adiamento relevante: campanhas, eleições, crises, com fontes datadas (alto)
-   - [ ] **Pausa:** um caso só não testa a P2; decidir se vale montar o universo de projetos
+   - [x] 2.4 O que veio antes de cada adiamento relevante: campanhas, eleições, crises, com fontes datadas (alto). Resultado: 2022 com padrão de complexidade, 2023 misto; o porteiro aparece.
+   - [x] **Pausa:** o usuário decidiu montar o universo (2 nov. 2026), porque a comparação é necessária para dizer se a demora é intencional.
    - [ ] 2.5 Universo de projetos sobre plataformas e grupo de controle: seleção e coleta (médio)
    - [ ] 2.6 Comparação e teste da P2, com grau de certeza (alto)
    - [ ] 2.7 Registro: base, fontes, achados, estado atual, commit (baixo)

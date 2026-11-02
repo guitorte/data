@@ -40,3 +40,13 @@ Uma previsão registrada **antes** de saber o resultado é o que separa um teste
 ## Lista de observação (não são previsões)
 
 - **Suspeita 14, o Brasil como laboratório.** Volta à mesa se o molde das "ordens secretas" aparecer em medida americana contra outro país (Austrália, Reino Unido, União Europeia).
+
+## P3 · Inteligência artificial: o vazio vai de novo para o tribunal? (proposta)
+
+- **Status:** proposta, **não registrada**. A ideia é do usuário (2 nov. 2026): pode haver ainda mais atuação do STF quando forem necessárias ações sobre IA.
+- **Para registrar, falta fixar:**
+  - **qual projeto de lei de IA acompanhar:** o número do projeto principal ainda precisa ser conferido; não deve ser citado de memória;
+  - **o que conta como "o STF ocupar o vazio":** julgamento com tese geral, decisão individual com efeito amplo, ou inquérito ligado a plataformas de IA;
+  - **o prazo de conferência.**
+- **Previsão a registrar:** se o Congresso não aprovar a regulação de IA até a data X, a regra virá primeiro por tese do STF ou por decreto do Executivo, como aconteceu com o artigo 19 do Marco Civil (tese em 2025, decreto em 2026).
+- **O que a refutaria:** o Congresso aprovar a lei antes de qualquer tese ou decreto, ou o vazio persistir sem que nenhum dos dois o ocupe.

@@ -162,3 +162,5 @@ Para cada ideia de estimação, o resultado que faria desistir dela.
 - Maurer e outros (2023), sobre as provocações da AfD;
 - Hinterleitner e Sager (2022), sobre erosão de normas;
 - Rogers e outros (2017), sobre *paltering*: enganar com afirmações verdadeiras.
+
+21. **Os porteiros.** O poder individual aparece nas duas pontas da cadeia. De um lado, o ministro que decide sozinho e rápido. Do outro, o presidente da Casa que decide sozinho o que não anda: o PL 2630 na Câmara, retirado de pauta "por prerrogativa" do presidente, e o impeachment de ministros no Senado, que depende do presidente. A demora e a rapidez podem ter a mesma forma: uma pessoa com a chave. *Confirmaria:* nos projetos com urgência (etapa 2.5), ver se as esperas mudam com quem preside a Casa, mais do que com o tema. Origem: etapa 2.4 e observação do usuário sobre Alcolumbre.

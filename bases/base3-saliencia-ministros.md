@@ -129,3 +129,5 @@ Vieram de outra conversa, importada em `entrada/triados/2026-10-11_chat_stf-gove
   - proposta de Lira, em 2023, de exigir 20% do Congresso para um partido acionar o STF.
 - **Imagem do STF:** Datafolha de set. 2026, com 47% de ruim ou péssimo, recorde da série iniciada em 2019; 76% acham que os ministros têm poder demais; 71% acham o tribunal essencial à democracia.
 - **Ministrocracia:** Arguelhes e Ribeiro, *Novos Estudos CEBRAP*, v. 37, n. 1, 2018. Na outra conversa, só o resumo foi lido.
+
+- **O porteiro do impeachment (usuário, 2 nov. 2026; conferir):** o debate sobre a permanência de Davi Alcolumbre na presidência do Senado tem girado em torno de ele provavelmente não pôr em votação o impeachment de Moraes. Liga-se à suspeita 21, os porteiros.
