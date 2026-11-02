@@ -30,13 +30,17 @@ for pl, f in sorted(alvos.items()):
     c = [p for p in TERMOS_C if re.search(p, norm(ementa))]
     d = decisoes.get(pl, {})
     decP = d.get("decisao_P", "")
-    grupo = "P" if decP == "sim" else ("C" if c else "G")
+    if not f:  # ficha não encontrada: não dá para classificar
+        grupo = "sem_ficha"
+    else:
+        grupo = "P" if decP == "sim" else ("C" if c else "G")
     rows.append({"pl": pl, "id": f.get("id", ""), "ementa": ementa[:400], "termos_P": ";".join(termos),
-                 "candidato_P": int(bool(termos)), "decisao_P": decP, "justificativa_P": d.get("justificativa", ""),
+                 "candidato_P": int(bool(termos)), "decisao_P": decP, "justificativa_P": d.get("justificativa", ""), "P_conteudo": int(d.get("conteudo") == "sim"),
                  "regra_C": int(bool(c)), "grupo": grupo})
 with open(ROOT / "dados/processados/urgencias_classificacao.csv", "w", newline="") as fh:
     w = csv.DictWriter(fh, fieldnames=list(rows[0])); w.writeheader(); w.writerows(rows)
 cand = [r for r in rows if r["candidato_P"]]
 print("PLs:", len(rows), "| candidatos P:", len(cand), "| sem decisão:", sum(1 for r in cand if not r["decisao_P"]),
       "| P:", sum(r["grupo"] == "P" for r in rows), "| C:", sum(r["grupo"] == "C" for r in rows),
-      "| G:", sum(r["grupo"] == "G" for r in rows))
+      "| G:", sum(r["grupo"] == "G" for r in rows), "| P-conteúdo:", sum(r["P_conteudo"] for r in rows),
+      "| sem ficha:", sum(r["grupo"] == "sem_ficha" for r in rows))

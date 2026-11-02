@@ -31,7 +31,7 @@ A formulação completa e o histórico estão em `docs/tese-e-hipoteses.md`.
 
 ## Em andamento
 
-A **expedição da tramitação** (ROADMAP, item 2) começou com a previsão P2 registrada em 2 nov. 2026. O protocolo foi aprovado em 2 nov. 2026, e as etapas 2.2 e 2.3 foram feitas (`dossies/tramitacao-pl2630.md`). O PL 2630 passou no Senado em 51 dias. Na Câmara, só há a urgência aprovada (25 abr. 2023) e a retirada de pauta (2 maio 2023), e nenhum andamento formal desde então. Foram registrados três desvios no protocolo. A próxima etapa é a 2.4 (esforço alto). As etapas e o esforço recomendado para cada uma estão no `ROADMAP.md`.
+A **expedição da tramitação** (ROADMAP, item 2) começou com a previsão P2 registrada em 2 nov. 2026. O protocolo foi aprovado em 2 nov. 2026, e as etapas 2.2 e 2.3 foram feitas (`dossies/tramitacao-pl2630.md`). O PL 2630 passou no Senado em 51 dias. Na Câmara, só há a urgência aprovada (25 abr. 2023) e a retirada de pauta (2 maio 2023), e nenhum andamento formal desde então. Foram registrados três desvios no protocolo. As etapas 2.4 e 2.5 também foram feitas. A população tem 1.153 PLs com urgência aprovada na Câmara entre 2015 e 2026: 9 de plataforma (6 no subconjunto P-conteúdo), 264 no controle complexo, 850 no controle geral e 30 sem ficha. A classificação foi registrada antes de qualquer desfecho ser aberto. A próxima etapa é a 2.6, o teste da P2, com esforço alto; ela espera a confirmação do usuário. As etapas e o esforço recomendado para cada uma estão no `ROADMAP.md`.
 
 ## Entrada
 

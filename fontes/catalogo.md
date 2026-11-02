@@ -55,6 +55,7 @@ Consultados online e não baixados: a composição dos painéis de 2025 (<https:
 | H.R. 1071 (*No Censors on our Shores Act*): resumo e tramitação | govinfo, dados em lote | `https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr1071.xml` e `.../BILLSTATUS/119/hr/BILLSTATUS-119hr1071.xml` | 2 nov. 2026 | `dados/brutos/congresso-eua/` |
 | Tipos de tramitação da Câmara (235 códigos), usados para classificar eventos no protocolo | Câmara, dados abertos | `https://dadosabertos.camara.leg.br/api/v2/referencias/proposicoes/codTipoTramitacao` | 2 nov. 2026 | `dados/brutos/camara/referencia_tipos_tramitacao_2026-11-02.json` |
 | PL 2630/2020: ficha e tramitações na Câmara (id 2256735); processo no Senado (id 7914763) | Câmara e Senado | `.../api/v2/proposicoes/2256735/tramitacoes`; `legis.senado.leg.br/dadosabertos/processo/7914763` | 2 nov. 2026 | `dados/brutos/tramitacao/` |
+| Votações do plenário da Câmara, fev. 2015 a abr. 2026 (14.960); requerimentos de urgência aprovados (1.478); fichas dos PLs alvo (1.153) | Câmara, dados abertos | `.../api/v2/votacoes?idOrgao=180`; `.../proposicoes/{id}`; `.../proposicoes/{id}/relacionadas` | 2 nov. 2026 | `dados/brutos/urgencias/` |
 | Datas das eleições de 2020 (EC 107) | Agência Senado, 2 jul. 2020 | <https://www12.senado.leg.br/noticias/videos/2020/07/promulgada-emenda-constitucional-que-altera-data-das-eleicoes-para-15-de-novembro> | 2 nov. 2026 | `dados/referencia/calendario_eleitoral.csv` |
 
 ## 3. Consultados, mas não redistribuídos
