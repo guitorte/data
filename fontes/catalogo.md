@@ -53,6 +53,7 @@ Consultados online e não baixados: a composição dos painéis de 2025 (<https:
 | Registros de lobby que citam o Brasil, 2024–2026 | Lobbying Disclosure Act | `https://lda.gov/api/v1/filings/?filing_specific_lobbying_issues=Brazil&filing_year={ano}` | 2 nov. 2026 | `dados/brutos/lda/lda_brazil.json` |
 | Lobby de clientes selecionados, 2025 | Lobbying Disclosure Act | `https://lda.gov/api/v1/filings/?client_name={cliente}&filing_year=2025` | 2 nov. 2026 | `dados/brutos/lda/lda_clients.json` |
 | H.R. 1071 (*No Censors on our Shores Act*): resumo e tramitação | govinfo, dados em lote | `https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr1071.xml` e `.../BILLSTATUS/119/hr/BILLSTATUS-119hr1071.xml` | 2 nov. 2026 | `dados/brutos/congresso-eua/` |
+| Tipos de tramitação da Câmara (235 códigos), usados para classificar eventos no protocolo | Câmara, dados abertos | `https://dadosabertos.camara.leg.br/api/v2/referencias/proposicoes/codTipoTramitacao` | 2 nov. 2026 | `dados/brutos/camara/referencia_tipos_tramitacao_2026-11-02.json` |
 | PL 2630/2020 (só teste de acesso) | Câmara e Senado | `https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&numero=2630&ano=2020` | 2 nov. 2026 | — (próxima expedição) |
 
 ## 3. Consultados, mas não redistribuídos

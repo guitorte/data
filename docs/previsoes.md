@@ -29,6 +29,7 @@ Uma previsão registrada **antes** de saber o resultado é o que separa um teste
 - **Data de registro:** 2 nov. 2026. Até aqui, as APIs da Câmara e do Senado foram testadas só quanto à resposta; nenhum dado de tramitação foi aberto.
 - **Quando conferir:** ao fechar a expedição de tramitação (ROADMAP, item 2).
 - **Definições operacionais:** "tempo parado", "adiamento", janela eleitoral, regra de seleção dos projetos e do grupo de controle serão fixados no protocolo da expedição (etapa 2.1), **antes** de abrir os dados. Esse protocolo entra aqui como adendo datado. Qualquer mudança depois de abrir os dados fica registrada como desvio, com o motivo.
+- **Adendo, 2 nov. 2026:** protocolo versão 1 escrito, aguardando aprovação (`docs/protocolos/tramitacao.md`). Ele declara o que já se sabia do PL 2630 antes dos dados e define o teste cego: a espera entre a urgência aprovada e a votação, comparada a um grupo de controle complexo.
 - **Hipótese (nossa):** as plataformas ganham mais adiando a lei do que derrotando-a, porque cada ano sem regra devolve o conflito ao tribunal.
 
 | O que observar | Se o atraso for estratégia | Se for só complexidade |

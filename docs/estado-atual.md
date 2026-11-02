@@ -31,7 +31,7 @@ A formulação completa e o histórico estão em `docs/tese-e-hipoteses.md`.
 
 ## Em andamento
 
-A **expedição da tramitação** (ROADMAP, item 2) começou com a previsão P2 registrada em 2 nov. 2026. A próxima etapa é o protocolo (2.1), que fixa as definições antes de abrir os dados. As etapas e o esforço recomendado para cada uma estão no `ROADMAP.md`.
+A **expedição da tramitação** (ROADMAP, item 2) começou com a previsão P2 registrada em 2 nov. 2026. O protocolo (2.1) está escrito em `docs/protocolos/tramitacao.md` e aguarda a aprovação do usuário. Nenhum dado de tramitação foi aberto. As etapas e o esforço recomendado para cada uma estão no `ROADMAP.md`.
 
 ## Próximos passos
 
