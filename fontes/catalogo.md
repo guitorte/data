@@ -54,7 +54,8 @@ Consultados online e não baixados: a composição dos painéis de 2025 (<https:
 | Lobby de clientes selecionados, 2025 | Lobbying Disclosure Act | `https://lda.gov/api/v1/filings/?client_name={cliente}&filing_year=2025` | 2 nov. 2026 | `dados/brutos/lda/lda_clients.json` |
 | H.R. 1071 (*No Censors on our Shores Act*): resumo e tramitação | govinfo, dados em lote | `https://www.govinfo.gov/bulkdata/BILLSUM/119/hr/BILLSUM-119hr1071.xml` e `.../BILLSTATUS/119/hr/BILLSTATUS-119hr1071.xml` | 2 nov. 2026 | `dados/brutos/congresso-eua/` |
 | Tipos de tramitação da Câmara (235 códigos), usados para classificar eventos no protocolo | Câmara, dados abertos | `https://dadosabertos.camara.leg.br/api/v2/referencias/proposicoes/codTipoTramitacao` | 2 nov. 2026 | `dados/brutos/camara/referencia_tipos_tramitacao_2026-11-02.json` |
-| PL 2630/2020 (só teste de acesso) | Câmara e Senado | `https://dadosabertos.camara.leg.br/api/v2/proposicoes?siglaTipo=PL&numero=2630&ano=2020` | 2 nov. 2026 | — (próxima expedição) |
+| PL 2630/2020: ficha e tramitações na Câmara (id 2256735); processo no Senado (id 7914763) | Câmara e Senado | `.../api/v2/proposicoes/2256735/tramitacoes`; `legis.senado.leg.br/dadosabertos/processo/7914763` | 2 nov. 2026 | `dados/brutos/tramitacao/` |
+| Datas das eleições de 2020 (EC 107) | Agência Senado, 2 jul. 2020 | <https://www12.senado.leg.br/noticias/videos/2020/07/promulgada-emenda-constitucional-que-altera-data-das-eleicoes-para-15-de-novembro> | 2 nov. 2026 | `dados/referencia/calendario_eleitoral.csv` |
 
 ## 3. Consultados, mas não redistribuídos
 

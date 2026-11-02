@@ -1,0 +1,58 @@
+{
+ "chegada_camara": "2020-07-03",
+ "desfecho": null,
+ "fim_observacao": "2026-10-31",
+ "vida_dias": 2311,
+ "eventos": 76,
+ "eventos_por_grupo": {
+  "A": 2,
+  "B": 1,
+  "C": 73
+ },
+ "ultimo_evento": "2024-04-24",
+ "ultimo_evento_A_ou_B": "2023-05-02",
+ "tempo_parado_dias": 2304,
+ "fracao_parado": 0.997,
+ "fracao_parado_sem_recesso": 0.996,
+ "maior_intervalo": {
+  "de": "2023-05-02",
+  "ate": "2026-10-31",
+  "dias": 1278,
+  "dias_sem_recesso": 1099,
+  "parado_180": 1,
+  "censurado": 1
+ },
+ "urgencias_aprovadas": [
+  "2023-04-25",
+  "2023-04-25"
+ ],
+ "espera_urgencia": {
+  "urgencia": "2023-04-25",
+  "deliberacao": null,
+  "dias": 1285,
+  "censurado": true
+ },
+ "inclusoes_em_pauta": [],
+ "adiamentos_plenario": [
+  [
+   "2023-05-02",
+   "Retirada pelo Autor(a) (Plenário)",
+   ""
+  ]
+ ],
+ "deliberacoes_merito": [],
+ "urgencias_rejeitadas_descritivo": [
+  [
+   "2022-04-06",
+   "Rejeitado o Requerimento de Urgência (Art. 155 do RICD) nº 8400/2018, apresentado ao PL 6812/2017, apensado. Sim: 249; não: 207; abstenção: 1; total: 457."
+  ]
+ ],
+ "senado": {
+  "primeiro_informe": "2020-05-13",
+  "remessa_a_camara": "2020-07-03",
+  "dias_ate_remessa": 51,
+  "ultimo_informe": "2021-01-19",
+  "informes": 88,
+  "situacao": "REMETIDA À CÂMARA DOS DEPUTADOS"
+ }
+}

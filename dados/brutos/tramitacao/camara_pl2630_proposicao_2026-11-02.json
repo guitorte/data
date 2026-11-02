@@ -1,0 +1,46 @@
+{
+ "dados": {
+  "id": 2256735,
+  "uri": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256735",
+  "siglaTipo": "PL",
+  "codTipo": 139,
+  "numero": 2630,
+  "ano": 2020,
+  "ementa": "Institui a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet.",
+  "dataApresentacao": "2020-07-03T16:28",
+  "uriOrgaoNumerador": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+  "statusProposicao": {
+   "dataHora": "2024-04-24T15:57",
+   "sequencia": 128,
+   "siglaOrgao": "PLEN",
+   "uriOrgao": "https://dadosabertos.camara.leg.br/api/v2/orgaos/180",
+   "uriUltimoRelator": "https://dadosabertos.camara.leg.br/api/v2/deputados/178987",
+   "regime": "Urgência (Art. 154, RICD)",
+   "descricaoTramitacao": "Apresentação de Requerimento",
+   "codTipoTramitacao": "194",
+   "descricaoSituacao": "Pronta para Pauta",
+   "codSituacao": 924,
+   "despacho": "Apresentação do REQ n. 1358/2024 (Requerimento de Apensação), pelo Deputado Pastor Henrique Vieira (PSOL/RJ -Fdr PSOL-REDE), que \"Requer, nos termos regimentais, a apensação do Projeto de Lei nº 847, de 2019 ao Projeto de Lei nº 2630, de 2020\".",
+   "url": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2413634",
+   "ambito": "Regimental",
+   "apreciacao": "Proposição Sujeita à Apreciação do Plenário"
+  },
+  "uriAutores": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256735/autores",
+  "descricaoTipo": "Projeto de Lei",
+  "ementaDetalhada": "Altera as Leis nº  10.703 de 2003 e 12.965 de 2014.",
+  "keywords": "Diretrizes, transparência, empresa, Rede social digital, Provedor de aplicação de mensagem instantânea, combate, notícia falsa (fake news), proibição, perfil falso, conta automatizada (robô). _Transparência, provedor de aplicações, internet. _Liberdade de expressão, usuário, criação, conteúdo digital, internet, controle,  Impulsionamento de conteúdo, publicidade. _Administração Pública, transparência pública, provedor de aplicações, internet, rede social, agente público. _ Criação, Conselho de Transparência e Responsabilidade na Internet._ Recursos, multa,  destinação, Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação (Fundeb), alfabetização digital, educação digital.\r\n_ Alteração, Lei Federal, União, Operadora de telefonia móvel, controle, autenticidade, Dados cadastrais, pessoa Física, pessoa jurídica, usuário de serviços, Telefone celular. _ Alteração, Marco Civil da Internet, Provedor de aplicações, internet, registro, acesso, usuário.",
+  "uriPropPrincipal": null,
+  "uriPropAnterior": null,
+  "uriPropPosterior": null,
+  "urlInteiroTeor": "https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1909983",
+  "urnFinal": null,
+  "texto": null,
+  "justificativa": null
+ },
+ "links": [
+  {
+   "rel": "self",
+   "href": "https://dadosabertos.camara.leg.br/api/v2/proposicoes/2256735"
+  }
+ ]
+}

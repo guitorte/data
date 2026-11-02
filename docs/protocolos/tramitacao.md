@@ -1,6 +1,6 @@
 # Protocolo · Expedição da tramitação (previsão P2)
 
-**Versão 1, 2 nov. 2026. Status: aguardando aprovação do usuário.** Depois de aprovado, este protocolo não se edita. Mudanças viram desvios datados, no fim do arquivo, com o motivo.
+**Versão 1, 2 nov. 2026. Status: aprovado pelo usuário em 2 nov. 2026 (12h14), antes de abrir qualquer dado de tramitação.** Depois de aprovado, este protocolo não se edita. Mudanças viram desvios datados, no fim do arquivo, com o motivo.
 
 ## 1. Para que serve
 
@@ -148,4 +148,8 @@ O mesmo é relatado contra o controle geral, para mostrar quanto a complexidade 
 
 ## 8. Desvios
 
-Nenhum até agora. Cada desvio entra aqui com data, o que mudou e por quê.
+Cada desvio entra aqui com data, o que mudou e por quê.
+
+1. **2 nov. 2026, etapa 2.3 — o despacho prevalece sobre o código.** No PL 2630, o evento de 2 maio 2023 tem o código 1241 ("Retirada pelo Autor(a)"), mas o despacho diz "Retirado de pauta, de ofício". Regra adotada para todos os projetos: quando o despacho diz "retirado de pauta", o evento conta como grupo B. Motivo: o código contradiz o texto do próprio registro. A regra foi fixada depois de ver o PL 2630, que não é cego, e antes de abrir os demais projetos.
+2. **2 nov. 2026, etapa 2.2 — datas eleitorais.** O protocolo previa tirar as datas do TSE. O site do TSE e o do Planalto bloquearam o acesso automatizado. A data de 2020 veio da Agência Senado; as outras seguem a regra constitucional, marcadas como "a conferir" em `dados/referencia/calendario_eleitoral.csv`.
+3. **2 nov. 2026, limitação observada (sem mudança de regra).** A tramitação da Câmara não registra a inclusão em pauta (código 150) do PL 2630, embora ele tenha sido retirado de pauta. Na etapa 2.5, os adiamentos e as votações devem ser buscados também no serviço de votações do plenário, como o protocolo já prevê para a urgência.

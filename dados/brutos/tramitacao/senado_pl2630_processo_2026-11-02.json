@@ -1,0 +1,4669 @@
+{
+ "id": 7914763,
+ "codigoMateria": 141944,
+ "identificacao": "PL 2630/2020",
+ "sigla": "PL",
+ "descricaoSigla": "Projeto de Lei",
+ "numero": "2630",
+ "ano": 2020,
+ "apelido": "Lei das Fake News",
+ "objetivo": "Iniciadora",
+ "casaIdentificadora": "SF",
+ "siglaEnteIdentificador": "SF",
+ "identificacaoExterna": {},
+ "conteudo": {
+  "id": 7420933,
+  "idTipo": 11,
+  "siglaTipo": "NORMA_GERAL",
+  "tipo": "Norma Geral",
+  "ementa": "Institui a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet.",
+  "explicacaoEmenta": "Estabelece normas relativas à transparência de redes sociais e de serviços de mensagens privadas, sobretudo no tocante à responsabilidade dos provedores pelo combate à desinformação e pelo aumento da transparência na internet, à transparência em relação a conteúdos patrocinados e à atuação do poder público, bem como estabelece sanções para o descumprimento da lei.",
+  "tipoNormaIndicada": "LEI",
+  "codigoAssuntoEspecifico": 139,
+  "assuntoEspecifico": "Ciência, tecnologia e informática",
+  "codigoAssuntoGeral": 84,
+  "assuntoGeral": "Social"
+ },
+ "documento": {
+  "id": 8110630,
+  "siglaTipo": "PROJETO_LEI_ORDINARIA",
+  "tipo": "Projeto de Lei Ordinária",
+  "dataApresentacao": "2020-05-13",
+  "dataLeitura": "2020-05-13",
+  "casaLeitura": "SF",
+  "indexacao": " CRIAÇÃO ,  LEI FEDERAL ,  DEFINIÇÃO ,  NORMAS ,  DIRETRIZ ,  LIBERDADE ,  RESPONSABILIDADE ,  PUBLICIDADE ,  MIDIA SOCIAL ,  SOFTWARE ,  COMUNICAÇÃO DE MENSAGENS ,  INTERNET ,  COMBATE ,  AUSENCIA ,  INFORMAÇÃO ,  DIVERSIDADE ,  FALSIFICAÇÃO ,  CONTAS ,  USUARIO ,  SERVIÇO ,  DIVULGAÇÃO ,  NOTICIA FALSA ,  SANÇÃO .",
+  "url": "https://legis.senado.gov.br/sdleg-getter/dadosabertos/documento/49df7574-975e-40fd-bb5c-c85ba9a5ddc5",
+  "autoria": [
+   {
+    "autor": "Alessandro Vieira",
+    "sexo": "M",
+    "siglaTipo": "SENADOR",
+    "descricaoTipo": "SENADOR",
+    "ordem": 1,
+    "outrosAutoresNaoInformados": "Não",
+    "codigoParlamentar": 5982,
+    "uf": "SE",
+    "siglaPartido": "CIDADANIA",
+    "partido": "CIDADANIA",
+    "siglaCargo": "SENADOR",
+    "cargo": "Senador",
+    "idEnte": 1,
+    "siglaEnte": "SF",
+    "casaEnte": "SF",
+    "ente": "Senado Federal"
+   }
+  ],
+  "resumoAutoria": "Senador Alessandro Vieira (CIDADANIA/SE)"
+ },
+ "tramitando": "Não",
+ "dataInicioEfetivo": "2020-05-13",
+ "situacaoAtual": "REMETIDA À CÂMARA DOS DEPUTADOS",
+ "siglaSituacaoAtual": "RMCD",
+ "dataSituacaoAtual": "2020-07-03",
+ "classificacoes": [
+  {
+   "codigo": 33805092,
+   "descricao": "Ciência, Tecnologia e Informática",
+   "descricaoHierarquia": "Economia e Desenvolvimento / Ciência, Tecnologia e Informática"
+  }
+ ],
+ "autoriaIniciativa": [
+  {
+   "autor": "Alessandro Vieira",
+   "sexo": "M",
+   "siglaTipo": "SENADOR",
+   "descricaoTipo": "SENADOR",
+   "ordem": 1,
+   "outrosAutoresNaoInformados": "Não",
+   "codigoParlamentar": 5982,
+   "uf": "SE",
+   "siglaPartido": "CIDADANIA",
+   "partido": "CIDADANIA",
+   "siglaCargo": "SENADOR",
+   "cargo": "Senador",
+   "idEnte": 1,
+   "siglaEnte": "SF",
+   "casaEnte": "SF",
+   "ente": "Senado Federal"
+  }
+ ],
+ "idProcessoCasaInicial": 7914763,
+ "identificacaoProcessoInicial": "PL 2630/2020",
+ "siglaCasaIniciadora": "SF",
+ "comissaoMpv": "{}",
+ "outrosNumeros": [
+  {
+   "idOutroProcesso": 7936304,
+   "sigla": "PL",
+   "numero": "02630",
+   "ano": 2020,
+   "tramitando": "Sim",
+   "externaAoCongresso": "Não",
+   "casaIdentificadora": "CD",
+   "siglaEnteIdentificador": "CD",
+   "enteIdentificador": "Câmara dos Deputados"
+  }
+ ],
+ "processosRelacionados": [
+  {
+   "idOutroProcesso": 7922168,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "541",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7922208,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "542",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7922351,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "544",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7922371,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "545",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7922843,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "581",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7931743,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1030",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7932902,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1078",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7932911,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1079",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933090,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1081",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933095,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1082",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933100,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1083",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933108,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1084",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933180,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1088",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933184,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1086",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933189,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1087",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933228,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1091",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933236,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1092",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933247,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1093",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933266,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1095",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933271,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1096",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933278,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1097",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933321,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1099",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933330,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1100",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933341,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1101",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933363,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1102",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933395,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1104",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933401,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1105",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933406,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1106",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933418,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1111",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933422,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1110",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933426,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1109",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933430,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1108",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933438,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1113",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933442,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1112",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933446,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1114",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933453,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1115",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933465,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1116",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933545,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1118",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933549,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1117",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933555,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1119",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933561,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1120",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933614,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1121",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933619,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1123",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933623,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1122",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933703,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1207",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933737,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1128",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933742,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1129",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933751,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1131",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933761,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1133",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933805,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1135",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7933884,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1137",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934136,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1149",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934145,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1150",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934163,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1152",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934195,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1154",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934228,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1161",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934232,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1162",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934251,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1165",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934384,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1174",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934415,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1179",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934428,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1182",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934438,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1183",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934471,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1190",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934507,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1194",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934696,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1208",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934751,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1211",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934775,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1212",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934796,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1216",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934810,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1219",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934862,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1222",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934880,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1223",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934885,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1224",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934903,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1226",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934967,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1229",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7934996,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1230",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7935008,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1231",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7935016,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1232",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7935031,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1234",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7935037,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1235",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  },
+  {
+   "idOutroProcesso": 7935060,
+   "tipoRelacao": "REFERENCIA",
+   "sigla": "RQS",
+   "numero": "1239",
+   "ano": 2020,
+   "tramitando": "Não",
+   "casaIdentificadora": "SF",
+   "siglaEnteIdentificador": "PLEN",
+   "enteIdentificador": "Plenário do Senado Federal"
+  }
+ ],
+ "despachos": [
+  {
+   "id": 8126611,
+   "data": "2020-06-25",
+   "siglaTipoMotivacao": "DECISAO_PRESID",
+   "tipoMotivacao": "Decisão da Presidência",
+   "cancelado": "Não",
+   "encontroLegislativo": {
+    "id": 7933537,
+    "numero": 61,
+    "data": "2020-06-25",
+    "casa": "SF",
+    "tipo": "SES",
+    "descricao": "Sessão Deliberativa Remota",
+    "colegiado": {
+     "codigo": 1998,
+     "casa": "SF",
+     "sigla": "PLEN",
+     "nome": "Plenário do Senado Federal"
+    }
+   },
+   "providencias": [
+    {
+     "id": 7933697,
+     "tipo": "AO_PLENARIO_ATO_7_2020",
+     "descricao": "Ao Plenário, nos termos do Ato da Comissão Diretora nº 7, de 2020",
+     "ordem": 1,
+     "analiseTempo": "SUCESSIVA",
+     "analiseConteudo": null,
+     "reexame": "Não",
+     "unidadesDestinatarias": [
+      {
+       "ordem": 1,
+       "tipoAnaliseDeliberacao": "NAO_TERMINATIVA",
+       "colegiado": {
+        "codigo": 1998,
+        "sigla": "PLEN",
+        "casa": "SF",
+        "nome": "Plenário do Senado Federal"
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "autuacoes": [
+  {
+   "numero": 1,
+   "descricao": "Autuação Principal",
+   "idEnteControleAtual": 55299,
+   "siglaEnteControleAtual": "COARQ",
+   "nomeEnteControleAtual": "Coordenação de Arquivo",
+   "situacoes": [
+    {
+     "idTipo": 78,
+     "sigla": "INCLOD",
+     "descricao": "INCLUÍDA EM ORDEM DO DIA",
+     "inicio": "2020-06-24",
+     "fim": "2020-06-30",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     }
+    },
+    {
+     "idTipo": 113,
+     "sigla": "APRVSUB",
+     "descricao": "APROVADO O SUBSTITUTIVO",
+     "inicio": "2020-06-30",
+     "fim": "2020-07-03",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     }
+    },
+    {
+     "idTipo": 52,
+     "sigla": "RMCD",
+     "descricao": "REMETIDA À CÂMARA DOS DEPUTADOS",
+     "inicio": "2020-07-03",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     }
+    }
+   ],
+   "informesLegislativos": [
+    {
+     "id": 106270,
+     "data": "2020-05-13 08:03:49",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "descricao": "Leitura da matéria na sessão do SF nº1, em 13/05/2020."
+    },
+    {
+     "id": 2034072,
+     "data": "2020-05-13 08:03:50",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "descricao": "Encaminhado à publicação no DSF de 21/05/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8110634,
+       "tipo": "Avulso inicial da matéria",
+       "siglaTipo": "AVULSO_INICIAL",
+       "identificacao": "Avulso inicial da matéria",
+       "descricao": "-",
+       "data": "2020-05-13T00:00:00",
+       "autoria": "Senado Federal",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6788a516-b2ca-4ac8-ae58-6676e91cabca"
+      },
+      {
+       "id": 8110636,
+       "tipo": "Correspondência Eletrônica",
+       "siglaTipo": "CORRESPONDENCIA_ELETRONICA",
+       "identificacao": "Correspondência Eletrônica",
+       "descricao": "-",
+       "data": "2020-05-13T00:00:00",
+       "autoria": "Senador Alessandro Vieira (CIDADANIA/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/327cf3ec-2cca-4f85-be1f-0a82e65247d8"
+      }
+     ]
+    },
+    {
+     "id": 2034074,
+     "data": "2020-06-01 00:00:01",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 1, do Senador Roberto Rocha; \r\n- 2 a 5, da Senadora Rose de Freitas; e \r\n- 6 e 7, do Senador Alvaro Dias.",
+     "documentosAssociados": [
+      {
+       "id": 8116675,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 1 PLEN - PL 2630/2020",
+       "data": "2020-06-01T09:41:18",
+       "autoria": "Senador Roberto Rocha (PSDB/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/69ea62ef-be75-4f14-b6e3-52f4adc864d6"
+      },
+      {
+       "id": 8116732,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 2 PLEN - PL 2630/2020",
+       "data": "2020-06-01T11:49:33",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/33fba1b0-4adb-4e15-afd0-0cd1436ddcdf"
+      },
+      {
+       "id": 8116735,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 3 PLEN - PL 2630/2020",
+       "data": "2020-06-01T11:49:33",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/49937558-96d9-47cf-b731-5427642d6e50"
+      },
+      {
+       "id": 8116755,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 4 PLEN - PL 2630/2020",
+       "data": "2020-06-01T12:11:09",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/151b8275-c13b-4a68-9809-c6d222d8b7e3"
+      },
+      {
+       "id": 8116758,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 5 PLEN - PL 2630/2020",
+       "data": "2020-06-01T12:11:09",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4752581e-b6fe-4187-be17-23e48127f606"
+      },
+      {
+       "id": 8116954,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 6 PLEN - PL 2630/2020",
+       "data": "2020-06-01T15:59:06",
+       "autoria": "Senador Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f9dc7a9a-c141-440e-a4d4-9b3e20da8f43"
+      },
+      {
+       "id": 8116957,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 7 PLEN - PL 2630/2020",
+       "data": "2020-06-01T15:59:06",
+       "autoria": "Senador Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a24253e1-71ca-4a8f-8130-9bde8579a1da"
+      }
+     ]
+    },
+    {
+     "id": 2034077,
+     "data": "2020-06-01 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 8 a 11, do Senador Paulo Paim; e \r\n- 12, da Senadora Rose de Freitas.",
+     "documentosAssociados": [
+      {
+       "id": 8117038,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 8 PLEN - PL 2630/2020",
+       "data": "2020-06-01T19:51:06",
+       "autoria": "Senador Paulo Paim (PT/RS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/93610adb-080e-407d-8571-c0f077d34713"
+      },
+      {
+       "id": 8117041,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 9 PLEN - PL 2630/2020",
+       "data": "2020-06-01T19:51:06",
+       "autoria": "Senador Paulo Paim (PT/RS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6efee4ef-5fcc-42ae-b618-605a9c46c78b"
+      },
+      {
+       "id": 8117044,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 10 PLEN - PL 2630/2020",
+       "data": "2020-06-01T19:51:06",
+       "autoria": "Senador Paulo Paim (PT/RS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/bd70ba23-1abb-4965-87d0-8663bc6d8a39"
+      },
+      {
+       "id": 8117047,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 11 PLEN - PL 2630/2020",
+       "data": "2020-06-01T19:51:06",
+       "autoria": "Senador Paulo Paim (PT/RS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/dfc120ac-d373-4885-928e-39d840490483"
+      },
+      {
+       "id": 8117050,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 12 PLEN - PL 2630/2020",
+       "data": "2020-06-01T19:55:38",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1ad5a352-3994-4b1c-aa76-19de2c3a5f6e"
+      }
+     ]
+    },
+    {
+     "id": 2034079,
+     "data": "2020-06-01 00:00:03",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 13, do Senador Antonio Anastasia; e \r\n- 14 a 20, do Senador Nelsinho Trad.",
+     "documentosAssociados": [
+      {
+       "id": 8117105,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 13 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:46:34",
+       "autoria": "Senador Antonio Anastasia (PSD/MG)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/29ee85ce-4a92-42d1-acfa-98612700d019"
+      },
+      {
+       "id": 8117126,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 14 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:54:22",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2a54f078-2de0-4e37-a6f1-0a1e8e8c1dca"
+      },
+      {
+       "id": 8117129,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 15 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:55:12",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/24d66bf9-b87c-4741-b85d-d6af95fa6ba8"
+      },
+      {
+       "id": 8117132,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 16 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:55:41",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/19976597-61a3-4020-bdc3-bc8dc0699c8d"
+      },
+      {
+       "id": 8117135,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 17 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:56:09",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/487fef34-0a24-4ba1-91cf-428c4b0bd338"
+      },
+      {
+       "id": 8117138,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 18 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:56:30",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4771c9fe-b515-4f91-a4da-5e42b5f12e93"
+      },
+      {
+       "id": 8117141,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 19 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:56:51",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0618cd03-d9ce-4c3c-a6c0-83529bbce620"
+      },
+      {
+       "id": 8117144,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 20 PLEN - PL 2630/2020",
+       "data": "2020-06-01T22:57:20",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/279a058b-ffa3-49c1-88b5-35367cfff315"
+      }
+     ]
+    },
+    {
+     "id": 2034082,
+     "data": "2020-06-02 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas, na Secretaria-Geral da Mesa, as Emendas nºs\r\n- 21, do Sendador Randolfe Rodrigues;\r\n- 22, do Senador Nelsinho Trad; e\r\n- 23, do Senador José Serra.",
+     "documentosAssociados": [
+      {
+       "id": 8117174,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 21 PLEN - PL 2630/2020",
+       "data": "2020-06-02T09:48:56",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9b9122bc-9c83-4e38-a68f-39ee3b686f27"
+      },
+      {
+       "id": 8117177,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 22 PLEN - PL 2630/2020",
+       "data": "2020-06-02T09:50:28",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/088fe174-6508-407f-96d8-69af63e3112c"
+      },
+      {
+       "id": 8117186,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 23 PLEN - PL 2630/2020",
+       "data": "2020-06-02T10:20:28",
+       "autoria": "Senador José Serra (PSDB/SP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/239e2539-fc31-4ec4-9d89-eec7978b0ec9"
+      }
+     ]
+    },
+    {
+     "id": 2034084,
+     "data": "2020-06-02 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 541, de 2020, da Senador Rose de Freitas, de retirada da Emenda nº 5.",
+     "documentosAssociados": [
+      {
+       "id": 8117205,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 541/2020",
+       "descricao": "Retirada da Emenda nº 5-PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-02T11:14:46",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d18edb14-3655-4f23-9fc4-c9e5a09671b9"
+      }
+     ]
+    },
+    {
+     "id": 2034085,
+     "data": "2020-06-02 00:00:03",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas, na Secretaria-Geral da Mesa, as Emendas nºs 24 a 26, do Senador Randolfe Rodrigues.",
+     "documentosAssociados": [
+      {
+       "id": 8117219,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 24 PLEN - PL 2630/2020",
+       "data": "2020-06-02T12:23:22",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/550d4b0f-870c-4665-8585-374f90265f81"
+      },
+      {
+       "id": 8117222,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 25 PLEN - PL 2630/2020",
+       "data": "2020-06-02T12:23:57",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f336ad11-5e44-4e62-8ded-ff5355e4f9eb"
+      },
+      {
+       "id": 8117225,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 26 PLEN - PL 2630/2020",
+       "data": "2020-06-02T12:24:21",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7e4c5d4d-6d12-4c56-b65d-d29818f40f90"
+      }
+     ]
+    },
+    {
+     "id": 2034087,
+     "data": "2020-06-02 00:00:04",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida, na Secretaria-Geral da Mesa, a Emenda nºs 27, da Senadora Eliziane Gama.",
+     "documentosAssociados": [
+      {
+       "id": 8117228,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 27 PLEN - PL 2630/2020",
+       "data": "2020-06-02T12:37:48",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6a00fdb5-851b-40fb-a389-8e3e2d87ce58"
+      }
+     ]
+    },
+    {
+     "id": 2034088,
+     "data": "2020-06-02 00:00:05",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 542, de 2020, da Senadora Soraya Thronicke, de retirada de pauta do PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8117235,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 542/2020",
+       "descricao": "Retirada do PL nº 2.630/2020 da pauta da Ordem do Dia.",
+       "data": "2020-06-02T12:46:53",
+       "autoria": "Senadora Soraya Thronicke (PSL/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8deeeabb-e603-45f5-9753-3ad0f5fe6dc0"
+      }
+     ]
+    },
+    {
+     "id": 2034089,
+     "data": "2020-06-02 00:00:06",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 28, do Senador Vanderlan; e \r\n- 29 a 32, do Senador Styvenson Valentim.",
+     "documentosAssociados": [
+      {
+       "id": 8117241,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 28 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:05:18",
+       "autoria": "Senador Vanderlan Cardoso (PSD/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/caeb3774-669d-41a1-89f7-aaf0d657309a"
+      },
+      {
+       "id": 8117244,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 29 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:05:48",
+       "autoria": "Senador Styvenson Valentim (PODEMOS/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0b31474f-d841-475a-879d-c90fd19c3396"
+      },
+      {
+       "id": 8117247,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 30 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:06:37",
+       "autoria": "Senador Vanderlan Cardoso (PSD/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/66e92199-b70c-4adf-8aba-a2843b940c05"
+      },
+      {
+       "id": 8117250,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 31 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:06:59",
+       "autoria": "Senador Styvenson Valentim (PODEMOS/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a221d0b9-9b7c-4bb1-9b20-b8986aa0bcee"
+      },
+      {
+       "id": 8117255,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 32 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:07:24",
+       "autoria": "Senador Styvenson Valentim (PODEMOS/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/430d8b2b-82db-4f15-a659-4a7aad0c8f55"
+      }
+     ]
+    },
+    {
+     "id": 2034090,
+     "data": "2020-06-02 00:00:07",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 33 a 35, do Senador Rogério Carvalho; \r\n- 36 a 39, do Senador Fabiano Contarato;\r\n- 40 a 43, do Senador Jean Paul Prates; e\r\n- 44 a 47, do Senador Humberto Costa.",
+     "documentosAssociados": [
+      {
+       "id": 8117265,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 33 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:20:51",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a0d915df-9e35-4f69-9322-9b3c1795fddd"
+      },
+      {
+       "id": 8117268,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 34 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:22:27",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d6b77f62-2aef-4d52-baf9-ee607fb3d6d9"
+      },
+      {
+       "id": 8117271,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 35 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:23:03",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/fb0f8b47-3c36-48b6-912c-c5e4374d7363"
+      },
+      {
+       "id": 8117274,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 36 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:23:37",
+       "autoria": "Senador Fabiano Contarato (REDE/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/cf6795e7-973c-4a62-a6ee-72f334a8bebb"
+      },
+      {
+       "id": 8117277,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 37 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:24:08",
+       "autoria": "Senador Fabiano Contarato (REDE/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/109f9cb9-3646-4a4b-b183-4419afc0d1c6"
+      },
+      {
+       "id": 8117280,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 38 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:24:37",
+       "autoria": "Senador Fabiano Contarato (REDE/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/87e2f822-f93d-4bb3-b4f2-9acd5c0d2145"
+      },
+      {
+       "id": 8117283,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 39 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:25:09",
+       "autoria": "Senador Fabiano Contarato (REDE/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7c56ed42-c0b1-442f-a973-63de0560d60f"
+      },
+      {
+       "id": 8117286,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 40 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:25:37",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1e7a036e-1db9-4d6b-9a40-9f0ae05764bd"
+      },
+      {
+       "id": 8117289,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 41 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:26:05",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/65ca58ca-3198-4a29-b0bc-2cac870fbaa6"
+      },
+      {
+       "id": 8117292,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 42 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:26:32",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a20cc38a-1588-435b-aee5-955bc3df19ba"
+      },
+      {
+       "id": 8117295,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 43 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:26:57",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d3ba92c7-7411-4851-b358-33a804edda75"
+      },
+      {
+       "id": 8117300,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 44 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:27:24",
+       "autoria": "Senador Humberto Costa (PT/PE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/27e7bcb4-8cf5-4b16-83b4-ce31d51ad648"
+      },
+      {
+       "id": 8117303,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 45 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:27:49",
+       "autoria": "Senador Humberto Costa (PT/PE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e6617174-2f19-4792-99c1-c20be41405aa"
+      },
+      {
+       "id": 8117306,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 46 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:28:14",
+       "autoria": "Senador Humberto Costa (PT/PE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d65f1172-72a5-47b7-b2ef-f82b7985d422"
+      },
+      {
+       "id": 8117309,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 47 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:28:36",
+       "autoria": "Senador Humberto Costa (PT/PE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/38e00156-7355-4cf6-aabd-4c321be4c7cf"
+      }
+     ]
+    },
+    {
+     "id": 2034091,
+     "data": "2020-06-02 00:00:08",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 48 e 49, da Senadora Rose de Freitas;",
+     "documentosAssociados": [
+      {
+       "id": 8117327,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 48 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:39:02",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/11d8c8aa-5e2e-4a75-9cea-ba303045ce9f"
+      },
+      {
+       "id": 8117330,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 49 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:39:02",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/91f40343-2cc4-4d90-ac95-cf43acde8881"
+      }
+     ]
+    },
+    {
+     "id": 2034092,
+     "data": "2020-06-02 00:00:09",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 50 a 52, do Senador Fabiano Contarato;\r\n- 53, do Senador Rogério Carvalho;\r\n- 54, da Senadora Eliziane Gama;\r\n- 55, do Sendador  Alessandro Vieira; e\r\n- 56, do Senador Dário Berger.",
+     "documentosAssociados": [
+      {
+       "id": 8117335,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 50 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:41:59",
+       "autoria": "Senador Fabiano Contarato (REDE/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/cfd7c241-cbca-48b6-bdac-ef40bc70a1e1"
+      },
+      {
+       "id": 8117343,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 52 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:41:59",
+       "autoria": "Senador Fabiano Contarato (REDE/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/51a99898-b7dc-47b3-957c-2aa7bb432234"
+      },
+      {
+       "id": 8117340,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 51 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:41:59",
+       "autoria": "Senador Fabiano Contarato (REDE/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d5033906-8e12-4125-9344-4e3a2cc8bb56"
+      },
+      {
+       "id": 8117346,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 53 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:47:37",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/97a6176d-53d4-4836-932c-b0d546ce968c"
+      },
+      {
+       "id": 8117349,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 54 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:48:12",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e539ff78-78a7-4a8b-9179-0d0e2a0ac134"
+      },
+      {
+       "id": 8117352,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 55 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:48:45",
+       "autoria": "Senador Alessandro Vieira (CIDADANIA/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7ad6daca-f209-401a-b341-7384c4c70bf6"
+      },
+      {
+       "id": 8117355,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 56 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:49:09",
+       "autoria": "Senador Dário Berger (MDB/SC)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2edd82c6-1bb3-49f8-ab7c-c075007d2681"
+      }
+     ]
+    },
+    {
+     "id": 2034093,
+     "data": "2020-06-02 00:00:10",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 544, de 2020, da Senadora Soraya Thronicke, de retirada de pauta do PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8117364,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 544/2020",
+       "descricao": "Retirada do PL nº 2.630/2020 da pauta da Ordem do Dia.",
+       "data": "2020-06-02T13:51:50",
+       "autoria": "Senadora Soraya Thronicke (PSL/MS), Senador Major Olimpio (PSL/SP), Senador Lasier Martins (PODEMOS/RS), Senador Eduardo Girão (PODEMOS/CE), Senador Luiz do Carmo (MDB/GO), Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b3a7c250-ecbd-4ee6-9224-e1695c8e0ff8"
+      }
+     ]
+    },
+    {
+     "id": 2034094,
+     "data": "2020-06-02 00:00:11",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 545, de 2020, da Senadora Soraya Thronicke, de retirada do Requerimento nº 542, de 2020.",
+     "documentosAssociados": [
+      {
+       "id": 8117382,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 545/2020",
+       "descricao": "Retirada de tramitação do RQS nº 542/2020.",
+       "data": "2020-06-02T14:01:09",
+       "autoria": "Senadora Soraya Thronicke (PSL/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a781ed96-86d1-4920-b63f-2bf7c5a81ca1"
+      }
+     ]
+    },
+    {
+     "id": 2034095,
+     "data": "2020-06-02 00:00:12",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 57 e 58, do Senador Jorge Kajuru; \r\n- 59 e 60, do Senador Jaques Wagner; \r\n- 61, do Senador Rodrigo Cunha; e \r\n- 62, do Senador Vanderlan Cardoso.",
+     "documentosAssociados": [
+      {
+       "id": 8117358,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 57 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:50:02",
+       "autoria": "Senador Jorge Kajuru (CIDADANIA/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9fd838bc-5e70-4cc0-9cc5-2ab3ce7757aa"
+      },
+      {
+       "id": 8117361,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 58 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:50:02",
+       "autoria": "Senador Jorge Kajuru (CIDADANIA/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c1b44a9a-e102-425c-97de-1f62dcf9306a"
+      },
+      {
+       "id": 8117367,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 59 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:51:50",
+       "autoria": "Senador Jaques Wagner (PT/BA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6afe63c3-9c38-4b26-8f23-0896278f3af5"
+      },
+      {
+       "id": 8117370,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 60 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:51:50",
+       "autoria": "Senador Jaques Wagner (PT/BA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/21399a51-0a7e-48d2-be96-d605c40d895b"
+      },
+      {
+       "id": 8117373,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 61 PLEN - PL 2630/2020",
+       "data": "2020-06-02T13:54:33",
+       "autoria": "Senador Rodrigo Cunha (PSDB/AL)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c4e5f8d9-2ee9-4860-9efd-c883e6ed14b4"
+      },
+      {
+       "id": 8117379,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 62 PLEN - PL 2630/2020",
+       "data": "2020-06-02T14:00:13",
+       "autoria": "Senador Vanderlan Cardoso (PSD/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a54a5e8a-80b4-4c8e-8297-2f1589e5f1c0"
+      }
+     ]
+    },
+    {
+     "id": 2034097,
+     "data": "2020-06-02 00:00:13",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida a Emenda nº 63, da Senadora Rose de Freitas.",
+     "documentosAssociados": [
+      {
+       "id": 8117415,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 63 PLEN - PL 2630/2020",
+       "data": "2020-06-02T15:21:41",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4f968fd3-d9bc-4c71-a1ad-3b1f87144262"
+      }
+     ]
+    },
+    {
+     "id": 2034098,
+     "data": "2020-06-02 00:00:14",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs 64, do Senador Rodrigo Cunha, e 65 da Senadora Eliziane Gama.",
+     "documentosAssociados": [
+      {
+       "id": 8117638,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 64 PLEN - PL 2630/2020",
+       "data": "2020-06-02T20:55:16",
+       "autoria": "Senador Rodrigo Cunha (PSDB/AL)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1b01682c-50f3-4161-a780-f888742c6b80"
+      },
+      {
+       "id": 8117643,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 65 PLEN - PL 2630/2020",
+       "data": "2020-06-02T20:58:34",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ddd3082c-c156-4c40-b47c-88bf27fd0b0e"
+      }
+     ]
+    },
+    {
+     "id": 2034099,
+     "data": "2020-06-03 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 581, de 2020, do Senador Rodrigo Cunha, de retirada da Emenda nº 61.",
+     "documentosAssociados": [
+      {
+       "id": 8117732,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 581/2020",
+       "descricao": "Retirada da Emenda n° 61-PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-03T11:39:07",
+       "autoria": "Senador Rodrigo Cunha (PSDB/AL)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b1d41a06-6137-465f-8d15-568955053c16"
+      }
+     ]
+    },
+    {
+     "id": 2034100,
+     "data": "2020-06-03 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida a Emenda nº 66, do Senador Mecias de Jesus."
+    },
+    {
+     "id": 2034101,
+     "data": "2020-06-03 00:00:03",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "O projeto constou da pauta da sessão deliberativa remota de 02.06.2020, quando foi transferido para a data a ser definida e comunicado que o emendamento permanece aberto."
+    },
+    {
+     "id": 2034103,
+     "data": "2020-06-04 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida, na Secretaria-Geral da Mesa, a Emenda nº 67, do Senador Nelsinho Trad.",
+     "documentosAssociados": [
+      {
+       "id": 8118189,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 67 PLEN - PL 2630/2020",
+       "data": "2020-06-04T08:38:09",
+       "autoria": "Senador Nelsinho Trad (PSD/MS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/86be7f26-ff5c-4009-9749-224cb391a182"
+      }
+     ]
+    },
+    {
+     "id": 2034104,
+     "data": "2020-06-04 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs\r\n- 68 e 69, da Senadora Eliziane Gama; e \r\n- 70 a 72, do Senador Zequinha Marinho.",
+     "documentosAssociados": [
+      {
+       "id": 8118724,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 68 PLEN - PL 2630/2020",
+       "data": "2020-06-04T17:20:12",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b2ec267a-7e18-4139-88b9-b07d49ef34bf"
+      },
+      {
+       "id": 8118727,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 69 PLEN - PL 2630/2020",
+       "data": "2020-06-04T17:20:12",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d6bb6aaa-309a-4e80-82dd-0cfd415ebdf5"
+      },
+      {
+       "id": 8118930,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 70 PLEN - PL 2630/2020",
+       "data": "2020-06-04T20:31:13",
+       "autoria": "Senador Zequinha Marinho (PSC/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/99ab0a56-87c8-418b-9922-d1a76d2e7944"
+      },
+      {
+       "id": 8118936,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 71 PLEN - PL 2630/2020",
+       "data": "2020-06-04T20:31:13",
+       "autoria": "Senador Zequinha Marinho (PSC/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/bf53c6aa-fc15-4214-bdfa-2674e387b5b8"
+      },
+      {
+       "id": 8118939,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 72 PLEN - PL 2630/2020",
+       "data": "2020-06-04T20:31:13",
+       "autoria": "Senador Zequinha Marinho (PSC/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d34c0388-5ed1-4bb3-92bc-728a320e9509"
+      }
+     ]
+    },
+    {
+     "id": 2034105,
+     "data": "2020-06-05 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida as Emendas nºs:\r\n- 73, do Senador Zequinha Marinho;\r\n- 74, do Senador Wellington Fagundes; \r\n- 75, do Senador Humberto Costa; e\r\n- 76 a 78, do Senador Jader Barbalho.",
+     "documentosAssociados": [
+      {
+       "id": 8119102,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 73 PLEN - PL 2630/2020",
+       "data": "2020-06-05T08:43:26",
+       "autoria": "Senador Zequinha Marinho (PSC/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/35570299-c169-42ca-b745-33fdf2953480"
+      },
+      {
+       "id": 8119340,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 74 PLEN - PL 2630/2020",
+       "data": "2020-06-08T11:59:17",
+       "autoria": "Senador Wellington Fagundes (PL/MT)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/645f8bfa-12a8-4168-bb58-ae962e739ca7"
+      },
+      {
+       "id": 8119355,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 75 PLEN - PL 2630/2020",
+       "data": "2020-06-08T13:08:08",
+       "autoria": "Senador Humberto Costa (PT/PE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/55ec5c0f-7de7-481d-a6bf-a8b1905f9a64"
+      },
+      {
+       "id": 8119832,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 76 PLEN - PL 2630/2020",
+       "data": "2020-06-09T17:21:05",
+       "autoria": "Senador Jader Barbalho (MDB/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6b184775-fb4e-435a-b577-f9f916b35ca5"
+      },
+      {
+       "id": 8119837,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 77 PLEN - PL 2630/2020",
+       "data": "2020-06-09T17:25:30",
+       "autoria": "Senador Jader Barbalho (MDB/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5e788d12-e30f-4e1b-8dbb-dd6af3b289fa"
+      },
+      {
+       "id": 8119840,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 78 PLEN - PL 2630/2020",
+       "data": "2020-06-09T17:25:57",
+       "autoria": "Senador Jader Barbalho (MDB/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/1b8da180-ec95-4314-bf8b-2fc85b0633bc"
+      }
+     ]
+    },
+    {
+     "id": 2034106,
+     "data": "2020-06-16 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida a Emenda nº 79, do Senador Jean Paul Prates.",
+     "documentosAssociados": [
+      {
+       "id": 8121616,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 79 PLEN - PL 2630/2020",
+       "data": "2020-06-16T20:54:16",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3f340c9f-a8de-49c9-bec1-ecbcffe4d349"
+      }
+     ]
+    },
+    {
+     "id": 2034107,
+     "data": "2020-06-18 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs 80 a 82, da Senadora Rose de Freitas.",
+     "documentosAssociados": [
+      {
+       "id": 8122505,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 80 PLEN - PL 2630/2020",
+       "data": "2020-06-18T18:04:35",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/eed43ec7-8b6b-4620-ac46-4659dc867e59"
+      },
+      {
+       "id": 8122508,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 81 PLEN - PL 2630/2020",
+       "data": "2020-06-18T18:05:01",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/445704ba-8b84-4638-8f34-ae203011bce0"
+      },
+      {
+       "id": 8122511,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 82 PLEN - PL 2630/2020",
+       "data": "2020-06-18T18:05:26",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e66c79aa-6575-4ddd-b126-41ab6a14d597"
+      }
+     ]
+    },
+    {
+     "id": 2034108,
+     "data": "2020-06-18 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs 83 e 84, da Senadora Rose de Freitas.",
+     "documentosAssociados": [
+      {
+       "id": 8122519,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 83 PLEN - PL 2630/2020",
+       "data": "2020-06-18T18:25:38",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0f6189d7-265f-4f8d-a648-6b62520171b7"
+      },
+      {
+       "id": 8122681,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 84 PLEN - PL 2630/2020",
+       "data": "2020-06-19T11:57:34",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8a6d5085-4ea2-4225-bb5f-3efb7d6e121c"
+      }
+     ]
+    },
+    {
+     "id": 2034109,
+     "data": "2020-06-22 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida a Emenda nº 85, do Senador Rodrigo Cunha.",
+     "documentosAssociados": [
+      {
+       "id": 8123471,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 85 PLEN - PL 2630/2020",
+       "data": "2020-06-22T14:19:52",
+       "autoria": "Senador Rodrigo Cunha (PSDB/AL)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/33c397d8-e33d-4ada-a248-d79f91a48c0b"
+      }
+     ]
+    },
+    {
+     "id": 2034110,
+     "data": "2020-06-24 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida a Emenda nº 86, do Senador Paulo Paim.",
+     "documentosAssociados": [
+      {
+       "id": 8125115,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 86 PLEN - PL 2630/2020",
+       "data": "2020-06-24T10:30:50",
+       "autoria": "Senador Paulo Paim (PT/RS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/25fc4606-7948-439a-becc-2e20a7476e38"
+      }
+     ]
+    },
+    {
+     "id": 2034111,
+     "data": "2020-06-24 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Relatório do Senador Angelo Coronel.",
+     "documentosAssociados": [
+      {
+       "id": 8125475,
+       "tipo": "Relatório Legislativo",
+       "siglaTipo": "RELATORIO",
+       "identificacao": "Relatório Legislativo - SF205696969046",
+       "data": "2020-06-24T17:38:58",
+       "autoria": "Senador Angelo Coronel (PSD/BA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/045bc489-6fb3-4e01-935d-20960c965255"
+      }
+     ]
+    },
+    {
+     "id": 2034112,
+     "data": "2020-06-24 00:00:03",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1030, de 2020, do Senador Alvaro Dias, solicitando o adiamento da discussão da matéria para audiência da Comissão de Constituição, Justiça e Cidadania.",
+     "documentosAssociados": [
+      {
+       "id": 8124559,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1030/2020",
+       "descricao": "Adiamento da discussão do PL nº 2.630/2020, para audiência da CCJ.",
+       "data": "2020-06-23T15:10:19",
+       "autoria": "Senador Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6984f60b-4133-4d44-9750-f5492802f2ce"
+      }
+     ]
+    },
+    {
+     "id": 2034113,
+     "data": "2020-06-24 00:00:04",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Incluído em Ordem do Dia da sessão deliberativa remota de 25/06/2020.\r\n(Tramitação conjunta: PL 2922/2020)",
+     "idSituacaoIniciada": 78,
+     "siglaSituacaoIniciada": "INCLOD"
+    },
+    {
+     "id": 2034114,
+     "data": "2020-06-24 00:00:05",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs 87 e 88, do Senador Fernando Collor.",
+     "documentosAssociados": [
+      {
+       "id": 8125759,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 87 PLEN - PL 2630/2020",
+       "data": "2020-06-24T21:31:34",
+       "autoria": "Senador Fernando Collor (PROS/AL)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/808c911a-12fd-40f4-b390-8f709950ee8b"
+      },
+      {
+       "id": 8125762,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 88 PLEN - PL 2630/2020",
+       "data": "2020-06-24T21:32:23",
+       "autoria": "Senador Fernando Collor (PROS/AL)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7437317a-8d67-494a-b46e-7388745a05bb"
+      }
+     ]
+    },
+    {
+     "id": 2034115,
+     "data": "2020-06-25 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida a Emenda nº 89, do Senador Wellington Fagundes.",
+     "documentosAssociados": [
+      {
+       "id": 8125771,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 89 PLEN - PL 2630/2020",
+       "data": "2020-06-25T10:06:05",
+       "autoria": "Senador Wellington Fagundes (PL/MT)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a64d738d-0aa9-404a-96ee-689d881e517f"
+      }
+     ]
+    },
+    {
+     "id": 2034117,
+     "data": "2020-06-25 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 90 e 91, do Senador Weverton; e\r\n- 92, do Senador Esperidião Amin.",
+     "documentosAssociados": [
+      {
+       "id": 8125776,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 90 PLEN - PL 2630/2020",
+       "data": "2020-06-25T10:29:35",
+       "autoria": "Senador Weverton (PDT/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4e75a8d3-32d4-4b49-a894-a9cbf153f95a"
+      },
+      {
+       "id": 8125779,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 91 PLEN - PL 2630/2020",
+       "data": "2020-06-25T10:29:35",
+       "autoria": "Senador Weverton (PDT/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a7dc052f-0b67-4c1d-addc-6f4206655e9c"
+      },
+      {
+       "id": 8125790,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 92 PLEN - PL 2630/2020",
+       "data": "2020-06-25T10:48:41",
+       "autoria": "Senador Esperidião Amin (PP/SC)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e50e3454-728e-40e6-8628-6146b4778240"
+      }
+     ]
+    },
+    {
+     "id": 2034118,
+     "data": "2020-06-25 00:00:03",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 93 a 95, do Senador Luiz do Carmo.",
+     "documentosAssociados": [
+      {
+       "id": 8125794,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 93 PLEN - PL 2630/2020",
+       "data": "2020-06-25T10:58:03",
+       "autoria": "Senador Luiz do Carmo (MDB/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a06957f0-8c7f-4492-895d-ea97ed5a6eb5"
+      },
+      {
+       "id": 8125797,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 94 PLEN - PL 2630/2020",
+       "data": "2020-06-25T11:02:09",
+       "autoria": "Senador Luiz do Carmo (MDB/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9322c831-8c3c-4056-b82d-32f3460bd581"
+      },
+      {
+       "id": 8125800,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 95 PLEN - PL 2630/2020",
+       "data": "2020-06-25T11:02:09",
+       "autoria": "Senador Luiz do Carmo (MDB/GO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/78b815cf-d3f3-40f8-a710-0d19049b7f09"
+      }
+     ]
+    },
+    {
+     "id": 2034119,
+     "data": "2020-06-25 00:00:04",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 96 e 97, do Senador Marcos Do Val.",
+     "documentosAssociados": [
+      {
+       "id": 8125810,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 96 PLEN - PL 2630/2020",
+       "data": "2020-06-25T11:28:19",
+       "autoria": "Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8b747ab6-dc2e-4dea-9fb3-890a1a485608"
+      },
+      {
+       "id": 8125815,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 97 PLEN - PL 2630/2020",
+       "data": "2020-06-25T11:30:36",
+       "autoria": "Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/faa2cd6c-7d05-495f-a51e-4517038b0119"
+      }
+     ]
+    },
+    {
+     "id": 2034120,
+     "data": "2020-06-25 00:00:05",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1078, de 2020, do Senador Roberto Rocha, de adiamento da discussão do Projeto.",
+     "documentosAssociados": [
+      {
+       "id": 8125819,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1078/2020",
+       "descricao": "Adiamento da discussão do PL nº 2.630/2020, para audiência da CCT.",
+       "data": "2020-06-25T11:31:10",
+       "autoria": "Senador Roberto Rocha (PSDB/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/15779d7c-9f12-4420-a883-7b80e9344b6e"
+      }
+     ]
+    },
+    {
+     "id": 2034121,
+     "data": "2020-06-25 00:00:06",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido, na Secretaria-Geral da Mesa, o Requerimento nº 1.079, do Senador Alvaro Dias, pela liderança do PODEMOS, de destaque, para votação em separado, do art. 10º do substitutivo proposto do PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8125824,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1079/2020",
+       "descricao": "Destaque para votação em separado do art. 10 do substitutivo proposto ao PL nº 2.630/2020.",
+       "data": "2020-06-25T11:34:27",
+       "autoria": "Líder do PODEMOS Alvaro Dias (PODEMOS/PR), Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/888ba878-5cfa-4032-bc87-8c3cec8e537a"
+      }
+     ]
+    },
+    {
+     "id": 2034122,
+     "data": "2020-06-25 00:00:07",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 98 e 99, da Senadora Zenaide Maia;\r\n- 100 a 102, da Senadora Eliziane Gama;\r\n- 103, do Senador Marcos do Val;\r\n- 104 a 106, da Senadora Eliziane Gama; e\r\n- 107, do Senador Marcos do Val.",
+     "documentosAssociados": [
+      {
+       "id": 8125846,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 98 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:01:41",
+       "autoria": "Senadora Zenaide Maia (PROS/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/783a9145-323d-4f18-8f43-848db4ae68d2"
+      },
+      {
+       "id": 8125851,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 99 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:04:35",
+       "autoria": "Senadora Zenaide Maia (PROS/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/45e1e4ae-f522-46a8-bd5d-3ecafaf0069e"
+      },
+      {
+       "id": 8125854,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 100 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:04:46",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2a7aa8a6-89f6-4a32-af2f-ef07835fe92b"
+      },
+      {
+       "id": 8125857,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 101 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:04:46",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5d7f1a70-88ea-46ea-be00-6acc4c2debcb"
+      },
+      {
+       "id": 8125860,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 102 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:05:43",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/23ca2829-37b3-4779-bfbb-2fe751b39244"
+      },
+      {
+       "id": 8125863,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 103 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:06:11",
+       "autoria": "Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/402596ba-2913-4554-aec7-70557b2b0608"
+      },
+      {
+       "id": 8125866,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 104 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:06:42",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/57cc8bd1-0f03-475c-ad0f-19d77b66b8f9"
+      },
+      {
+       "id": 8125871,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 105 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:07:53",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/07363000-99e8-46f8-a254-62a216d7dbbc"
+      },
+      {
+       "id": 8125876,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 106 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:11:05",
+       "autoria": "Senadora Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0ebf3524-a078-4e15-b870-c2fdbe5c5ff4"
+      },
+      {
+       "id": 8125879,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 107 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:11:59",
+       "autoria": "Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/73eae647-c4b4-4d03-b863-7ff4ee5b0036"
+      }
+     ]
+    },
+    {
+     "id": 2034123,
+     "data": "2020-06-25 00:00:08",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 108, do Senador Marcos do Val;\r\n- 109, do Senador Weverton,\r\n- 110 e 111, do Senador Jean Paul Prates;\r\n- 112, do Senador Humberto Costa;\r\n- 113 e 114, do Senador Jean Paul Prates.",
+     "documentosAssociados": [
+      {
+       "id": 8125914,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 108 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:27:16",
+       "autoria": "Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/086e9359-9704-49c4-8c21-75c7a557db76"
+      },
+      {
+       "id": 8125953,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 109 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:48:05",
+       "autoria": "Senador Weverton (PDT/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a2887c84-1f5c-43e2-af59-464a9e2216b0"
+      },
+      {
+       "id": 8125956,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 110 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:48:39",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/16360952-e4bb-462a-9f5a-74fa0c448558"
+      },
+      {
+       "id": 8125959,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 111 PLEN - PL 2630/2020",
+       "data": "2020-06-25T12:49:17",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9cbed09f-9aab-41b5-8e6e-1dce070c9711"
+      },
+      {
+       "id": 8125972,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 112 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:04:43",
+       "autoria": "Senador Humberto Costa (PT/PE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b44c6aaf-8d74-4b0b-a478-921378cc8729"
+      },
+      {
+       "id": 8125978,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 113 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:08:06",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4f49cf16-c24f-4376-ac29-03b1692b8c63"
+      },
+      {
+       "id": 8125981,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 114 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:08:06",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8e963a59-d2d3-4755-9a17-d2c7f5e7b998"
+      }
+     ]
+    },
+    {
+     "id": 2034124,
+     "data": "2020-06-25 00:00:09",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidos os Requerimentos nºs:\r\n- 1082, de 2020, do Senador Major Olimpio e da Senadora Soraya Thronicke, de adiamento da discussão do Projeto; e \r\n- 1084, de 2020, do Senador José Serra, de adiamento da discussão do Projeto.",
+     "documentosAssociados": [
+      {
+       "id": 8126074,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1082/2020",
+       "descricao": "Adiamento da discussão do PL nº 2.630/2020 por trinta dias úteis.",
+       "data": "2020-06-25T13:41:39",
+       "autoria": "Senador Major Olimpio (PSL/SP), Senadora Soraya Thronicke (PSL/MS), Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/eb5e78f1-2a43-4d61-b6cb-355cf3027798"
+      },
+      {
+       "id": 8126085,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1084/2020",
+       "descricao": "Adiamento da discussão do PL nº 2.630/2020, para a instrução da matéria mediante sessão de debate temático com especialistas.",
+       "data": "2020-06-25T13:44:49",
+       "autoria": "Senador José Serra (PSDB/SP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/0c87aab0-54c6-41d8-adac-5dca99567f4a"
+      }
+     ]
+    },
+    {
+     "id": 2034125,
+     "data": "2020-06-25 00:00:10",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 115, da Senadora Zenaide Maia;\r\n- 116, do Senador Jean Paul Prates;\r\n- 117, do Senador Eduardo Gomes;\r\n- 118, do Senador Paulo Paim;\r\n- 119, do Senador Paulo Rocha;\r\n- 120, do Senador Rogério Carvalho;\r\n- 121, do Senador Paulo Paim;\r\n- 122, do Senador Alvaro Dias; e \r\n- 123, do Senador Paulo Rocha.",
+     "documentosAssociados": [
+      {
+       "id": 8126003,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 115 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:22:17",
+       "autoria": "Senador Jean Paul Prates (PT/RN)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b8b30666-9bf6-44d6-8fdc-3706635de328"
+      },
+      {
+       "id": 8126008,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 116 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:26:51",
+       "autoria": "Senador Marcos do Val (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/465f5b58-0121-45cb-b3e7-f17555cc5d9f"
+      },
+      {
+       "id": 8126011,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 117 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:27:16",
+       "autoria": "Senador Eduardo Gomes (MDB/TO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5c3ce1d8-7ec4-43cc-a9ea-8770f913c36e"
+      },
+      {
+       "id": 8126015,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 118 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:27:42",
+       "autoria": "Senador Paulo Paim (PT/RS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/987617b3-6581-4fe9-9786-5b269263fe1c"
+      },
+      {
+       "id": 8126019,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 119 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:28:04",
+       "autoria": "Senador Paulo Rocha (PT/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d143e739-f1e0-42c0-a9df-c72c7b900354"
+      },
+      {
+       "id": 8126022,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 120 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:28:25",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/79b9b3c3-0a02-419e-b825-d21b77506752"
+      },
+      {
+       "id": 8126027,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 121 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:28:48",
+       "autoria": "Senador Paulo Paim (PT/RS)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e3e15eb2-5794-4f01-b391-42242be184ed"
+      },
+      {
+       "id": 8126030,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 122 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:29:11",
+       "autoria": "Senador Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f5cac173-34bf-4d7d-930f-718c8a705149"
+      },
+      {
+       "id": 8126034,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 123 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:29:34",
+       "autoria": "Senador Paulo Rocha (PT/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5244ab77-b97a-4579-906e-aff5b74486b3"
+      }
+     ]
+    },
+    {
+     "id": 2034126,
+     "data": "2020-06-25 00:00:11",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs:\r\n- 124 a 129 da Senadora Daniella Ribeiro;\r\n- 130, do Senadora Kátia Abreu;\r\n- 131, do Senadora Leila de Barros;",
+     "documentosAssociados": [
+      {
+       "id": 8126039,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 124 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:32:24",
+       "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d6052452-cae8-4b9a-9a3a-3f072ca9927e"
+      },
+      {
+       "id": 8126046,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 125 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:32:24",
+       "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8c8d8554-d7e1-4d25-93df-291d6b308af9"
+      },
+      {
+       "id": 8126050,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 126 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:34:31",
+       "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/22440a08-ccdd-4d8e-87c0-730d5522d8d1"
+      },
+      {
+       "id": 8126055,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 127 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:35:16",
+       "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2485af70-fdff-416f-8727-ae8450807a2d"
+      },
+      {
+       "id": 8126059,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 128 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:35:58",
+       "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8b20dd56-0009-4c2e-8564-06e7534e5019"
+      },
+      {
+       "id": 8126062,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 129 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:36:38",
+       "autoria": "Senadora Daniella Ribeiro (PP/PB)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8ded4718-2241-46d0-88cb-b015c96d1a62"
+      },
+      {
+       "id": 8126066,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 130 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:37:13",
+       "autoria": "Senadora Kátia Abreu (PP/TO)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/3de3a422-1cf1-4689-8d77-0e62631708f9"
+      },
+      {
+       "id": 8126080,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 131 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:44:01",
+       "autoria": "Senadora Leila Barros (PSB/DF)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/77faf5fb-5c0d-43cd-9fa3-a46f29ae5109"
+      }
+     ]
+    },
+    {
+     "id": 2034127,
+     "data": "2020-06-25 00:00:12",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nº 132 a 143, do Senador Randolfe Rodrigues.",
+     "documentosAssociados": [
+      {
+       "id": 8126102,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 132 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:52:53",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e7fb91bb-42dd-4f37-b764-f5e536a54f41"
+      },
+      {
+       "id": 8126106,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 133 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ed8ddd70-102c-4372-98c6-e66741992b71"
+      },
+      {
+       "id": 8126109,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 134 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f60e49e2-d3d6-4a03-96f9-33b3178227eb"
+      },
+      {
+       "id": 8126112,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 135 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b8a6e900-b3d8-41b6-a8c2-a0e2a1d417c3"
+      },
+      {
+       "id": 8126115,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 136 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6605b511-f941-49f6-8b65-e3cefc74a0bc"
+      },
+      {
+       "id": 8126118,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 137 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9e863e9c-9f73-4d06-a7f0-e3fbdacd96d8"
+      },
+      {
+       "id": 8126121,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 138 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f839aaef-55df-4f96-b197-113ede1256e1"
+      },
+      {
+       "id": 8126125,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 139 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/18bf0e2d-1992-4cd0-a694-2b3a10e82766"
+      },
+      {
+       "id": 8126128,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 140 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5999576f-bf29-44f6-bff7-d949785681e4"
+      },
+      {
+       "id": 8126131,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 141 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f54c67f8-9cf3-4497-9a44-76697c523114"
+      },
+      {
+       "id": 8126134,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 142 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/478fe36a-5aec-4b59-ba7e-20d4f71f4127"
+      },
+      {
+       "id": 8126137,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 143 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:53:41",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8ff8b678-50c1-4932-b6f0-8ec48cb0424d"
+      }
+     ]
+    },
+    {
+     "id": 2034128,
+     "data": "2020-06-25 00:00:13",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as emendas nºs:\r\n- 144 e 145, da Senadora Rose de Freitas; e \r\n- !46 a 148, do Senador Rogério Carvalho.",
+     "documentosAssociados": [
+      {
+       "id": 8126143,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 144 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:56:55",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2fdd0b22-cb13-4c18-9ad4-539e5a0cd3ec"
+      },
+      {
+       "id": 8126146,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 145 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:56:55",
+       "autoria": "Senadora Rose de Freitas (PODEMOS/ES)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/d150ea20-16b7-4e85-b294-e6766ac7b619"
+      },
+      {
+       "id": 8126151,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 146 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:58:39",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/bf3ad686-0834-4489-b9c6-1c2867f3deb4"
+      },
+      {
+       "id": 8126154,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 147 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:58:39",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6be2d32d-5d5c-4c8f-9c49-985d9e6940db"
+      },
+      {
+       "id": 8126157,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 148 PLEN - PL 2630/2020",
+       "data": "2020-06-25T13:58:39",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/92345b1b-cb62-4670-8d21-ebd0960905c6"
+      }
+     ]
+    },
+    {
+     "id": 2034129,
+     "data": "2020-06-25 00:00:14",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido, na Secretaria-Geral da Mesa, o Requerimento nº 1.086, do Senador José Serra, de destaque, para votação em separado, da Emenda nº 64 ao PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8126184,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1086/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 64 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T14:02:09",
+       "autoria": "Senador José Serra (PSDB/SP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b35cf4fa-039e-46e3-a7c6-fd79497e985b"
+      }
+     ]
+    },
+    {
+     "id": 2034131,
+     "data": "2020-06-25 00:00:15",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1083, de 2020, do Senador Zequinha Marinho, de retirada de pauta do Projeto.",
+     "documentosAssociados": [
+      {
+       "id": 8126077,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1083/2020",
+       "descricao": "Retirada do PL nº 2.630/2020 da pauta da Ordem do Dia.",
+       "data": "2020-06-25T13:43:22",
+       "autoria": "Senador Zequinha Marinho (PSC/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f78d190b-9d67-40b1-9f47-571060e76463"
+      }
+     ]
+    },
+    {
+     "id": 2034132,
+     "data": "2020-06-25 00:00:16",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidas as Emendas nºs: \r\n- 149 e 150, do Senador Rogério Carvalho; \r\n- 151, do Senador Paulo Rocha; e \r\n- 152, do Senador Humberto Costa.",
+     "documentosAssociados": [
+      {
+       "id": 8126203,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 149 PLEN - PL 2630/2020",
+       "data": "2020-06-25T14:09:38",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/9ec5eadf-fcc5-4abf-921e-983ce0a3eb84"
+      },
+      {
+       "id": 8126210,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 150 PLEN - PL 2630/2020",
+       "data": "2020-06-25T14:09:38",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5d7a9262-1228-4fbf-bcb6-da09e4338f0d"
+      },
+      {
+       "id": 8126217,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 151 PLEN - PL 2630/2020",
+       "data": "2020-06-25T14:11:55",
+       "autoria": "Senador Paulo Rocha (PT/PA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/719db001-d51e-402f-a23e-b0be05443eee"
+      },
+      {
+       "id": 8126220,
+       "tipo": "Emenda",
+       "siglaTipo": "EMENDA",
+       "identificacao": "EMENDA 152 PLEN - PL 2630/2020",
+       "data": "2020-06-25T14:12:45",
+       "autoria": "Senador Humberto Costa (PT/PE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b3c59b37-dc7b-4881-9691-16640a5c7bf1"
+      }
+     ]
+    },
+    {
+     "id": 2034134,
+     "data": "2020-06-25 00:00:17",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Encerrado o prazo de emendamento à matéria às 14h de 25/06/2020. \r\nForam apresentadas 152 emendas.",
+     "documentosAssociados": [
+      {
+       "id": 8126276,
+       "tipo": "Avulso de emendas",
+       "siglaTipo": "AVULSO_EMENDAS",
+       "identificacao": "Avulso de emendas",
+       "descricao": "-",
+       "data": "2020-06-25T00:00:00",
+       "autoria": "Senado Federal",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/527537ca-038f-4058-8123-9763db00203d"
+      }
+     ]
+    },
+    {
+     "id": 2034135,
+     "data": "2020-06-25 00:00:18",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido, na Secretaria-Geral da Mesa, o Requerimento nº 1.091, do Senador Weverton, pela liderança do PDT, de destaque, para votação em separado, da emenda 109 apresentada ao substitutivo do PL 2630 de 2020.",
+     "documentosAssociados": [
+      {
+       "id": 8126238,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1091/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 109 - PLEN, apresentada ao substitutivo ao PL nº 2.630/2020.",
+       "data": "2020-06-25T14:17:38",
+       "autoria": "Líder do PDT Weverton (PDT/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/db137b00-605c-4c5c-906b-fb79a62dc875"
+      }
+     ]
+    },
+    {
+     "id": 2034136,
+     "data": "2020-06-25 00:00:19",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1092,  de 2020 do Senador Alvaro Dias, pela liderança do Podemos, de destaque para votação em separado do Art. 8º do substitutivo ao PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8126243,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1092/2020",
+       "descricao": "Destaque para votação em separado do art. 8º do substitutivo proposto ao PL nº 2.630/2020.",
+       "data": "2020-06-25T14:20:56",
+       "autoria": "Líder do PODEMOS Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4d0a058a-3b8e-47c2-8bf7-c9a72751bee1"
+      }
+     ]
+    },
+    {
+     "id": 2034137,
+     "data": "2020-06-25 00:00:20",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidos os Requerimentos nº 1095 e 1096, do Senador Rogerio Carvalho, de retirada das Emendas nºs 150 e 147.",
+     "documentosAssociados": [
+      {
+       "id": 8126265,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1095/2020",
+       "descricao": "Retirada da Emenda nº 150 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T14:35:17",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c3525239-b268-4662-8cb7-ccb8aeb6c804"
+      },
+      {
+       "id": 8126268,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1096/2020",
+       "descricao": "Retirada da Emenda nº 147 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T14:35:17",
+       "autoria": "Senador Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/de991796-9441-4e4e-90e6-c82f7676a9d3"
+      }
+     ]
+    },
+    {
+     "id": 2034138,
+     "data": "2020-06-25 00:00:21",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1.100, de 2020 da Senadora Eliziane Gama, pela liderança do CIDADANIA, de destaque, para votação em separado, da Emenda nº 104 ao PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8126310,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1100/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 104 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T15:07:08",
+       "autoria": "Líder do CIDADANIA Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/fbbcfde9-7b7f-4538-a61e-6f801904916d"
+      }
+     ]
+    },
+    {
+     "id": 2034139,
+     "data": "2020-06-25 00:00:22",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1.105, de 2020 da Senadora Roberto Rocha, pela liderança do PSDB, de destaque, para votação em separado da Emenda nº 92, oferecida ao PL nº 2630, de 2020.",
+     "documentosAssociados": [
+      {
+       "id": 8126343,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1105/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 92 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T15:44:49",
+       "autoria": "Líder do PSDB Roberto Rocha (PSDB/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/34c26733-50ee-4605-8b66-a7682f253680"
+      }
+     ]
+    },
+    {
+     "id": 2034140,
+     "data": "2020-06-25 00:00:23",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1.114, de 2020 do Senador Randolfe Rodrigues, pela liderança da REDE, de destaque, para votação em separado, da Emenda nº 142 - PLEN ao PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8126373,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1114/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 142 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T16:00:56",
+       "autoria": "Líder do REDE Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/2d5c51b4-1efc-4f9b-a2ac-74e9c5d046a3"
+      }
+     ]
+    },
+    {
+     "id": 2034141,
+     "data": "2020-06-25 00:00:24",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidos os Requerimentos nºs: \r\n- 1108 a 1111, do Senador Rogério Carvalho, pela Liderança do PT, de destaque das Emendas nºs 112, 115, 146 e 149; e \r\n- 1112 e 1113, do Senador Alvaro Dias, pela Liderança do Podemos, de destaque das Emendas nºs 144 e 145.",
+     "documentosAssociados": [
+      {
+       "id": 8126355,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1111/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 149 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T15:54:51",
+       "autoria": "Líder do PT Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/5e5e150b-324e-4254-be87-dc8e2fdccc02"
+      },
+      {
+       "id": 8126358,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1110/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 146 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T15:54:51",
+       "autoria": "Líder do PT Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/625c5178-8c02-4aa4-9f57-e26fa991446f"
+      },
+      {
+       "id": 8126361,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1109/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 115 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T15:54:51",
+       "autoria": "Líder do PT Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c9593161-5053-4a2c-bce5-9b91f4344c29"
+      },
+      {
+       "id": 8126364,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1108/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 112 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T15:54:51",
+       "autoria": "Líder do PT Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/f5172df7-2ec4-4a7d-8f33-e6f5c7041c1d"
+      },
+      {
+       "id": 8126367,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1113/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 145 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T16:00:31",
+       "autoria": "Líder do PODEMOS Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b2ceedaf-72b2-4d8a-b4fc-4ed6091e67cf"
+      },
+      {
+       "id": 8126370,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1112/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 144 - PLEN, apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T16:00:31",
+       "autoria": "Líder do PODEMOS Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7219dc84-9cc9-49b0-ae83-e2f26bc53480"
+      }
+     ]
+    },
+    {
+     "id": 2034142,
+     "data": "2020-06-25 00:00:25",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1.116, de 2020 do Senador Esperidião Amin, pela liderança do Bloco Unidos pelo Brasil, de preferência para a Emenda número 92-PLEN (substitutivo), oferecida ao PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8126386,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1116/2020",
+       "descricao": "Preferência para a Emenda nº 92 - PLEN (Substitutivo), apresentada ao PL nº 2.630/2020.",
+       "data": "2020-06-25T16:24:06",
+       "autoria": "Senador Esperidião Amin (PP/SC)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/bef121bb-db83-4001-bde7-01776f44e073"
+      }
+     ]
+    },
+    {
+     "id": 2034143,
+     "data": "2020-06-25 00:00:26",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o novo Relatório do Senador Angelo Coronel.",
+     "documentosAssociados": [
+      {
+       "id": 8126427,
+       "tipo": "Relatório Legislativo",
+       "siglaTipo": "RELATORIO",
+       "identificacao": "Relatório Legislativo - SF208351012087",
+       "data": "2020-06-25T16:41:38",
+       "autoria": "Senador Angelo Coronel (PSD/BA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a8e6b8c8-e7d9-4e4a-8f36-a7bc556bad3e"
+      }
+     ]
+    },
+    {
+     "id": 2034144,
+     "data": "2020-06-25 00:00:27",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidos os Requerimentos nºs 1117 e 1118, do Senador Alvaro Dias, pela Liderança do Podemos, de retirada dos Requerimentos nºs 1112 e 1113.",
+     "documentosAssociados": [
+      {
+       "id": 8126463,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1118/2020",
+       "descricao": "Retirada do RQS nº 1.113/2020.",
+       "data": "2020-06-25T17:00:38",
+       "autoria": "Líder do PODEMOS Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/861c3d24-dafd-4ffd-8115-0258206542ff"
+      },
+      {
+       "id": 8126466,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1117/2020",
+       "descricao": "Retirada do RQS nº 1.112/2020.",
+       "data": "2020-06-25T17:00:38",
+       "autoria": "Líder do PODEMOS Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/504bd1bf-8f73-4c6e-b406-c4948e1c7570"
+      }
+     ]
+    },
+    {
+     "id": 2034147,
+     "data": "2020-06-25 00:00:28",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidos os Requerimentos nºs: \r\n- 1115, do Senador Esperidião Amin, de adiamento da discussão do Projeto para audiência da CCJ; e \r\n- 1120, do Senador Alvaro Dias, de adiamentos da discussão do Projeto.",
+     "documentosAssociados": [
+      {
+       "id": 8126376,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1115/2020",
+       "descricao": "Adiamento da votação do PL nº 2.630/2020, para audiência da CCJ.",
+       "data": "2020-06-25T16:11:02",
+       "autoria": "Senador Esperidião Amin (PP/SC), Senador Eduardo Girão (PODEMOS/CE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/304878ed-dc6e-4f8e-babf-84ca8745fa88"
+      },
+      {
+       "id": 8126478,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1120/2020",
+       "descricao": "Adiamento da discussão do PL nº 2.630/2020, para audiência da CCJ.",
+       "data": "2020-06-25T17:09:55",
+       "autoria": "Senador Alvaro Dias (PODEMOS/PR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/473664fe-ed4f-4428-8f7d-9a9a3e5fe720"
+      }
+     ]
+    },
+    {
+     "id": 2034148,
+     "data": "2020-06-25 00:00:29",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Encerrado o prazo para apresentação de destaques à matéria às 16h de 25/06/2020."
+    },
+    {
+     "id": 2034149,
+     "data": "2020-06-25 00:00:30",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebida correspondência eletrônica do Senador Randolfe Rodrigues, pela Liderança da REDE, optanto pela manutenção do Requerimento nº 1.114, de 2020, de destaque, da Emenda 142.",
+     "documentosAssociados": [
+      {
+       "id": 8126544,
+       "tipo": "Correspondência Eletrônica",
+       "siglaTipo": "CORRESPONDENCIA_ELETRONICA",
+       "identificacao": "Correspondência Eletrônica",
+       "descricao": "Decisão pelo RQS 1.114/2020, de destaque.",
+       "data": "2020-06-25T00:00:00",
+       "autoria": "Senador Randolfe Rodrigues (REDE/AP)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e07117e8-a077-4f61-9c0e-ad7576a9a5a3"
+      }
+     ]
+    },
+    {
+     "id": 2034151,
+     "data": "2020-06-25 00:00:31",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Durante a sessão de hoje, o Senador Eduardo Gomes declarou a retirada da emenda nº 117, de sua autoria"
+    },
+    {
+     "id": 2034153,
+     "data": "2020-06-25 00:00:32",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "descricao": "(Sessão Deliberativa Remota realizada no dia 25/06/2020)\r\nEncaminhadas à publicação as  Emendas nºs 1 a 152 - Plen.\r\nAs Emendas nºs 5, 61, 147, 148 e 150 – Plen, foram retiradas pelos autores.\r\nEncaminhados à publicação e indeferidos os seguintes Requerimentos de Adiamento da discussão:\r\n- nº1030, de 2020, do Senador Alvaro Dias;\r\n- nº 1078, de 2020, do Senador Roberto Rocha;\r\n- nº 1081, de 2020, do Senador Major Olímpio e outros Senadores;\r\n- nº 1082, de 2020, do Senador Major Olímpio e outros Senadores;\r\n- nº 1083, de 2020, do Senador Zequinha Marinho;\r\n- nº 1084, de 2020, do Senador José Serra;\r\n- nº 1085, de 2020, da Senadora Eliziane Gama;\r\n- nº 1115, de 2020, do Senador Esperidião Amim.\r\nA Presidência encerra a discussão e transfere a deliberação da presente matéria para a sessão da próxima terça-feira, dia 30 de junho próximo.\n(Encaminhados à publicação os Requerimentos nºs 541, 542, 544, 545, 581, 1079, 1086, 1091, 1092, 1095, 1096, 1100, 1105, 1108, 1109, 1110, 1111, 1112, 1113, 1114, 1116, 1117, 1118 e 1120.)\ntodos de 2020.)\n************* Retificado em 26/06/2020*************\n(No registro da ação legislativa, desconsidere-se, por incorreção, a citação do Requerimento nº 1085, de 2020)"
+    },
+    {
+     "id": 2034155,
+     "data": "2020-06-26 00:00:01",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1128, de 2020, do Senador Antonio Anastasia, de retirada da Emenda nº 13.",
+     "documentosAssociados": [
+      {
+       "id": 8126632,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1128/2020",
+       "descricao": "Retirada da Emenda nº 13-PLEN, apresentada ao PL nº 2630/2020.",
+       "data": "2020-06-26T10:37:31",
+       "autoria": "Senador Antonio Anastasia (PSD/MG)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/a6a1d375-0402-4b4a-a206-6e4070d62624"
+      }
+     ]
+    },
+    {
+     "id": 2034156,
+     "data": "2020-06-26 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Reaberto o prazo para recebimento de requerimentos de destaques até o início da sessão deliberativa remota em que a matéria for incluída. \r\nIncluída na Ordem do Dia da Sessão Deliberativa Remota de 30/06."
+    },
+    {
+     "id": 2034157,
+     "data": "2020-06-29 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1154, de 2020, do Senador Major Olímpio e da Senadora Soraya Thronicke, de retirada da matéria da Ordem do Dia.",
+     "documentosAssociados": [
+      {
+       "id": 8127036,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1154/2020",
+       "descricao": "Retirada do PL nº 2630/2020 da pauta da Ordem do Dia.",
+       "data": "2020-06-29T12:29:59",
+       "autoria": "Senador Major Olimpio (PSL/SP), Senadora Soraya Thronicke (PSL/MS), Senador Marcos do Val (PODEMOS/ES), Senador Eduardo Girão (PODEMOS/CE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/817ce7a1-9761-4f33-9b59-a415d48ca06c"
+      }
+     ]
+    },
+    {
+     "id": 2034158,
+     "data": "2020-06-29 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido às 20h51 o novo Relatório do Senador Angelo Coronel.",
+     "documentosAssociados": [
+      {
+       "id": 8127226,
+       "tipo": "Relatório Legislativo",
+       "siglaTipo": "RELATORIO",
+       "identificacao": "Relatório Legislativo - SF203438941890",
+       "data": "2020-06-29T20:51:01",
+       "autoria": "Senador Angelo Coronel (PSD/BA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8677e5d3-b980-459d-a033-1eeb69094c0a"
+      }
+     ]
+    },
+    {
+     "id": 2034159,
+     "data": "2020-06-30 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1211, do Senador Ciro Nogueira, pela Liderança do Progressistas, de destaque, para votação em separado, da Emenda nº 130.",
+     "documentosAssociados": [
+      {
+       "id": 8127386,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1211/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 130-PLEN, apresentada ao PL nº 2630/2020.",
+       "data": "2020-06-30T12:47:01",
+       "autoria": "Líder do PP Ciro Nogueira (PP/PI)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7d1a734c-bd6e-4f38-a511-b608b389216e"
+      }
+     ]
+    },
+    {
+     "id": 2034160,
+     "data": "2020-06-30 00:00:02",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido, na Secretaria-Geral da Mesa, o Requerimento nº 1212/2020, do Senador Roberto Rocha, pela liderança do PSDB, de retirada do Requerimento nº 1105/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127412,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1212/2020",
+       "descricao": "Retirada do RQS nº 1105/2020.",
+       "data": "2020-06-30T13:13:56",
+       "autoria": "Líder do PSDB Roberto Rocha (PSDB/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b90beb66-a4f0-4e02-89a9-409cf502599a"
+      }
+     ]
+    },
+    {
+     "id": 2034162,
+     "data": "2020-06-30 00:00:03",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebidos os Requerimentos nºs:\r\n- 1216, do Senador Roberto Rocha, pela Liderança do PSDB, de destaque, para votação em separado, da Emenda nº 64, oferecida ao PL nº 2630, de 2020; e\r\n\r\n- 1219, do Senador Izalci Lucas, de destaque, para votação em separado, dos §§ 3º, 5º, 8º e 9º do Art. 12 do PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127424,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1216/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 64-PLEN, apresentada ao PL nº 2630/2020.",
+       "data": "2020-06-30T13:29:42",
+       "autoria": "Líder do PSDB Roberto Rocha (PSDB/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/e167b9fd-9560-41f4-8b7a-86d072ea2e34"
+      },
+      {
+       "id": 8127433,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1219/2020",
+       "descricao": "Destaque para votação em separado dos §§ 3º, 5º, 8º e 9º do art. 12 do PL nº 2630/2020.",
+       "data": "2020-06-30T13:36:11",
+       "autoria": "Senador Izalci Lucas (PSDB/DF)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/00e91639-cbc4-41bb-afd2-1ce793033dbd"
+      }
+     ]
+    },
+    {
+     "id": 2034163,
+     "data": "2020-06-30 00:00:04",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1224, do Senador Roberto Rocha, pela Liderança do PSDB, de destaque para votação em separado, da Emenda nº 85.",
+     "documentosAssociados": [
+      {
+       "id": 8127474,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1224/2020",
+       "descricao": "Destaque para votação em separado da Emenda nº 85-PLEN, apresentada ao PL nº 2630/2020,",
+       "data": "2020-06-30T14:17:48",
+       "autoria": "Líder do PSDB Roberto Rocha (PSDB/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/7a24bf88-ab8b-42ba-9c48-42b50ffce8b6"
+      }
+     ]
+    },
+    {
+     "id": 2034164,
+     "data": "2020-06-30 00:00:05",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido, na Secretaria-Geral da Mesa, o Requerimento nº 1223, do Senador Roberto Rocha, pela liderança do PSDB, de retirada do Requerimento nº 1216/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127471,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1223/2020",
+       "descricao": "Retirada do RQS nº 1216/2020.",
+       "data": "2020-06-30T14:16:37",
+       "autoria": "Líder do PSDB Roberto Rocha (PSDB/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b09e70a7-5c99-46bb-ad7b-8e64472b371c"
+      }
+     ]
+    },
+    {
+     "id": 2034165,
+     "data": "2020-06-30 00:00:06",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1229, do Senador Weverton, pela Liderança do PDT, de destaque para supressão do art. 16 apresentado ao substitutivo do PL 2630 de 2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127534,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1229/2020",
+       "descricao": "Destaque para votação em separado do art. 16 do Substitutivo apresentado ao PL nº 2630/2020.",
+       "data": "2020-06-30T15:12:17",
+       "autoria": "Líder do PDT Weverton (PDT/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/06776324-bee4-41a7-9c57-0bb512c94ed0"
+      }
+     ]
+    },
+    {
+     "id": 2034166,
+     "data": "2020-06-30 00:00:07",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1230, do Senador Telmário Mota, pela Liderança do PROS, de destaque para votação em separado, do § 4º do art. 27 o texto \"pessoa que ocupe cargo público de que seja demissível ad nutum, bem como por pessoa vinculada ou filiada a partido político\", do PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127561,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1230/2020",
+       "descricao": "Destaque para votação em separado do § 4º do art. 27 - o texto \"pessoa\r\nque ocupe cargo público de que seja demissível ad nutum, bem como por pessoa\r\nvinculada ou filiada a partido político\", do PL nº 2630/2020.",
+       "data": "2020-06-30T15:27:53",
+       "autoria": "Líder do PROS Telmário Mota (PROS/RR)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4129bd0b-bd2f-470b-a186-1b1f3e1cfa6e"
+      }
+     ]
+    },
+    {
+     "id": 2034167,
+     "data": "2020-06-30 00:00:08",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1231, da Senadora Eliziane Gama, pela Liderança do CIDADANIA, de destaque para votação em separado, do art. 14 do Substitutivo apresentado pelo relator do PL 2630/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127569,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1231/2020",
+       "descricao": "Destaque para votação em separado do art. 14 do Substitutivo apresentado ao PL nº 2630/2020.",
+       "data": "2020-06-30T15:55:09",
+       "autoria": "Líder do CIDADANIA Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b5efb349-cff1-416f-a255-082e4b656e69"
+      }
+     ]
+    },
+    {
+     "id": 2034169,
+     "data": "2020-06-30 00:00:09",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Encerrado o prazo para apresentação de destaques à matéria às 16h de 30/06/2020."
+    },
+    {
+     "id": 2034170,
+     "data": "2020-06-30 00:00:10",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido, na Secretaria-Geral da Mesa, o Requerimento nº 1232, da Senadora Eliziane, pela liderança do CIDADANIA, de retirada do Requerimento nº 1100/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127574,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1232/2020",
+       "descricao": "Retirada do RQS nº 1100/2020.",
+       "data": "2020-06-30T16:00:54",
+       "autoria": "Líder do CIDADANIA Eliziane Gama (CIDADANIA/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/defc74d6-16c7-48de-8fec-dc54e6f196a3"
+      }
+     ]
+    },
+    {
+     "id": 2034171,
+     "data": "2020-06-30 00:00:11",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido, na Secretaria-Geral da Mesa, o Requerimento nº 1235, do Senador Weverton, pela liderança do PDT, de retirada do Requerimento nº 1091/2020.",
+     "documentosAssociados": [
+      {
+       "id": 8127592,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1235/2020",
+       "descricao": "Retirada do RQS nº 1091/2020.",
+       "data": "2020-06-30T16:24:13",
+       "autoria": "Líder do PDT Weverton (PDT/MA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/98e85739-1461-4b3d-b1a2-79cea8b67d6a"
+      }
+     ]
+    },
+    {
+     "id": 2034172,
+     "data": "2020-06-30 00:00:12",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "descricao": "Recebido o Requerimento nº 1239, de 2020, do Senador Rogério Carvalho, de retirada do Requerimento nº 1108, de 2020, de destaque da Emenda 112.",
+     "documentosAssociados": [
+      {
+       "id": 8127609,
+       "tipo": "Requerimento",
+       "siglaTipo": "REQUERIMENTO",
+       "identificacao": "RQS 1239/2020",
+       "descricao": "Retirada do RQS nº 1108/2020.",
+       "data": "2020-06-30T16:47:58",
+       "autoria": "Líder do PT Rogério Carvalho (PT/SE)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/b246df81-819e-4380-905d-abc875755a0c"
+      }
+     ]
+    },
+    {
+     "id": 2034173,
+     "data": "2020-06-30 00:00:13",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "descricao": "(Sessão Deliberativa Remota realizada em 30/06/2020)\r\nEncaminhados à publicação os seguintes requerimentos:\r\n- RQS nº 1079/2020, da liderança do Podemos, solicitando destaque para votação em separado do art. 10 do substitutivo ao projeto;\r\n- RQS nº 1086/2020, de autoria do Senador José Serra, solicitando destaque para votação em separado da Emenda nº 64 – PLEN;\r\n- RQS nº 1091/2020, da liderança do PDT, solicitando destaque para votação em separado da Emenda nº 109 – PLEN;\r\n- RQS nº 1092/2020, da liderança do Podemos, solicitando destaque para votação em separado do art. 8º do substitutivo ao projeto; \r\n- RQS nº 1100/2020, da liderança do Cidadania, solicitando destaque para votação em separado da Emenda nº 104 – PLEN;\r\n- RQS nº 1105/2020, da liderança do PSDB, solicitando destaque para votação em separado da Emenda nº 92 – PLEN;\r\n- RQS nº 1108/2020, da liderança do PT, solicitando destaque para votação em separado da Emenda nº 112 – PLEN; \r\n- RQS nº 1114/2020, da liderança do Rede, solicitando destaque para votação em separado da Emenda nº 142 – PLEN; \r\n- RQS nº 1128/2020, de autoria do Senador Antonio Anastasia, solicitando a retirada da Emenda nº 13-PLEN;\r\n- RQS nº 1154/2020, tendo como primeiro signatário o Senador Major Olímpio, solicitando a retirada do projeto da pauta da Ordem do Dia;\r\n- RQS nº 1179/2020, de autoria do Senador Major Olímpio, solicitando o adiamento da votação do projeto;\r\n- RQS nº 1211/2020, da liderança do PP, solicitando destaque para votação em separado da Emenda nº 130-PLEN;\r\n- RQS nº 1212/2020, da liderança do PSDB, solicitando a retirada do RQS nº 1105/2020; \r\n- RQS nº 1216/2020, da liderança do PSDB, solicitando destaque para votação em separado da Emenda nº 64-PLEN;\r\n- RQS nº 1219/2020, de autoria do Senador Izalci Lucas, solicitando destaque para votação em separado dos §§ 3º, 5º, 8º e 9º do art. 12 do projeto; \r\n- RQS nº 1223/2020, da liderança do PSDB, solicitando a retirada do RQS nº 1216/2020;\r\n- RQS nº 1224/2020, da liderança do PSDB, solicitando destaque para votação em separado da Emenda nº 85-PLEN; \r\n- RQS nº 1226/2020, da liderança do PT, solicitando destaque para votação em separado do art. 12 do Substitutivo ao projeto;\r\n- RQS nº 1229/2020, da liderança do PDT, solicitando destaque para votação em separado do art. 16 do Substitutivo ao projeto; \r\n- RQS nº 1230/2020, da liderança do Pros, solicitando destaque para votação em separado do § 4º do art. 27 do projeto - o texto \"pessoa que ocupe cargo público de que seja demissível ad nutum, bem como por pessoa vinculada ou filiada a partido político\"; \r\n- RQS nº 1231/2020, da liderança do Cidadania, solicitando destaque para votação em separado do art. 14 do Substitutivo ao projeto;\r\n- RQS nº 1232/2020, da liderança do Cidadania, solicitando a retirada do RQS nº 1100/2020;\r\n- RQS nº 1235/2020, da liderança do PDT, solicitando a retirada do RQS nº 1091/2020; e \r\n- RQS nº 1239/2020, da liderança do PT, solicitando a retirada do RQS nº 1108/2020.\r\nProferido pelo Senador Angelo Coronel o Parecer nº 73, de 2020-PLEN/SF, concluindo pela aprovação do projeto; pela aprovação das Emendas nºs 1, 20, 33, 34, 40, 41, 97, 99, 100, 104, 105, 114, 119, 120, 121, 123, 128, 134, 136, 139, 145, 146 e 151; pela aprovação parcial das Emendas nºs 2, 7, 8, 9, 11, 12, 15, 16, 18, 21, 23, 24, 26, 27, 28, 30, 32, 37, 45, 46, 47, 48, 49, 53, 55, 62, 64, 65, 67, 72, 74, 75, 76, 77, 79, 80, 85, 87, 88, 90, 91, 92, 94, 96, 98, 103, 107, 108, 109, 110, 111, 112, 113, 115, 116, 117, 118, 122, 124, 125, 130, 133, 135, 137, 138, 141, 143, 144 e 149; pela declaração de prejudicialidade das Emendas nºs 3, 6, 29, 31, 35, 39, 50, 51, 52, 57, 70, 78, 86, 89 e 93; pela rejeição das Emendas nºs 4, 10, 14, 17, 19, 22, 25, 36, 38, 42, 43, 44, 54, 56, 58, 59, 60, 63, 66, 68, 69, 73, 81, 82, 83, 84, 95, 101, 102, 106, 126, 127, 129, 131, 132, 140, 142 e 152; na forma do Substitutivo apresentado - Emenda nº 153-PLEN.\r\nAprovado o Substitutivo – Emenda nº 153-PLEN, nos termos do Parecer nº 73/2020-PLEN/SF, proferido pelo Senador Angelo Coronel, ressalvados os destaques. (Sim 44, Não 32, Abst, 2, Presidente 1, Total 79)\r\nConforme manifestações das lideranças partidárias, são os seguintes os destaques para votação em separado remanescentes: “Art. 10 do Substitutivo” e “Emenda nº 142-PLEN”. \r\nRejeitada a Emenda nº 142-PLEN, destacada. (Sim 28, Não 41, Abst. 1, Presidente 1, Total 71)\r\nAprovado o art. 10 do Substitutivo, destacado. (Sim 40, Não 32, Presidente 1, Total 73)\r\nNão sendo oferecidas emendas na apreciação no turno suplementar, o Substitutivo é definitivamente adotado, sem votação, nos termos do art. 284, do Regimento Interno.\r\nA consolidação do texto e as adequações de técnica legislativa serão apostas aos autógrafos da matéria, dispensada a redação final.\r\nÀ Câmara dos Deputados.\r\n(Encaminhada à publicação Declaração de Voto do Senador Márcio Bittar)",
+     "idSituacaoIniciada": 113,
+     "siglaSituacaoIniciada": "APRVSUB",
+     "documentosAssociados": [
+      {
+       "id": 8127689,
+       "tipo": "Listagem ou relatório descritivo",
+       "siglaTipo": "LISTAGEM_RELATORIO",
+       "identificacao": "Listagem ou relatório descritivo",
+       "descricao": "Votação da Emenda nº 153 (Subst.) ao PL 2630/2020, com os ajustes propostos pelo Relator, ressalvados os destaques.",
+       "data": "2020-06-30T00:00:00",
+       "autoria": "Senado Federal",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6e4f1816-6224-49a0-bb7a-472cc6f2b3e6"
+      },
+      {
+       "id": 8127693,
+       "tipo": "Listagem ou relatório descritivo",
+       "siglaTipo": "LISTAGEM_RELATORIO",
+       "identificacao": "Listagem ou relatório descritivo",
+       "descricao": "Votação do art. 10 do Substitutivo ao Projeto de Lei nº 2.630, de 2020, destacado.",
+       "data": "2020-06-30T00:00:00",
+       "autoria": "Senado Federal",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/c0e921f2-7409-46eb-aa4e-c008dd672a62"
+      },
+      {
+       "id": 8127691,
+       "tipo": "Listagem ou relatório descritivo",
+       "siglaTipo": "LISTAGEM_RELATORIO",
+       "identificacao": "Listagem ou relatório descritivo",
+       "descricao": "Votação nominal da Emenda n. 142 ao PL 2630/2020, destacada.",
+       "data": "2020-06-30T00:00:00",
+       "autoria": "Senado Federal",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/962d9301-6f38-424f-9c33-35f8d3a0b267"
+      },
+      {
+       "id": 8127630,
+       "tipo": "Parecer",
+       "siglaTipo": "PARECER",
+       "identificacao": "P.S 73/2020 - PLEN",
+       "descricao": "Parecer nº 73, de 2020-PLEN/SF - apresentação de Substitutivo - Emenda nº 153-PLEN",
+       "data": "2020-06-30T17:20:19",
+       "autoria": "Senador Angelo Coronel (PSD/BA)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/062b412b-ba32-4b3a-a8c0-7b1e28d8a8c0"
+      },
+      {
+       "id": 8127687,
+       "tipo": "Declaração de Voto",
+       "siglaTipo": "DECLARACAO_VOTO",
+       "identificacao": "Declaração de Voto - SF203929380326",
+       "data": "2020-06-30T20:14:20",
+       "autoria": "Senador Marcio Bittar (MDB/AC)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/09beeb2a-6c57-4799-b6cd-9dbf8f0d5163"
+      }
+     ]
+    },
+    {
+     "id": 2034174,
+     "data": "2020-07-01 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "descricao": "Anexado o texto revisado."
+    },
+    {
+     "id": 2034175,
+     "data": "2020-07-03 00:00:01",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "descricao": "Remetido Ofício SF nº 591, de 02/07/20, à Senhora Primeira-Secretária da Câmara dos Deputados, encaminhando autógrafos do projeto para revisão, nos termos do art. 65 da Constituição Federal.",
+     "idSituacaoIniciada": 52,
+     "siglaSituacaoIniciada": "RMCD",
+     "documentosAssociados": [
+      {
+       "id": 8128038,
+       "tipo": "Ofício",
+       "siglaTipo": "OFICIO",
+       "identificacao": "OFSF 591/2020",
+       "descricao": "Encaminha à revisão da Câmara dos Deputados o Projeto de Lei n° 2.630, de 2020.",
+       "data": "2020-07-02T00:00:00",
+       "autoria": "Primeiro-Secretário do Senado Federal",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/599523b0-54bd-4d8a-bb29-48c79022e395"
+      },
+      {
+       "id": 8128670,
+       "tipo": "Projeto de Lei Ordinária",
+       "siglaTipo": "PROJETO_LEI_ORDINARIA",
+       "identificacao": "Autógrafo - PL 2630/2020",
+       "descricao": "Institui a Lei Brasileira de Liberdade, Responsabilidade e Transparência na Internet.",
+       "data": "2020-07-03T00:00:00",
+       "autoria": "Senado Federal",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8e7a605a-0a6f-4ad1-91da-5f139bb3a4b6"
+      }
+     ]
+    },
+    {
+     "id": 2036468,
+     "data": "2020-07-27 14:55:21",
+     "colegiado": {},
+     "enteAdministrativo": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "descricao": "Por solicitação.\r\n\r\n\r\nÀ ATRSGM"
+    },
+    {
+     "id": 2036472,
+     "data": "2020-07-27 16:21:23",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 55305,
+      "casa": "SF",
+      "sigla": "ATRSGM",
+      "nome": "Assessoria Técnica"
+     },
+     "descricao": "Juntadas à página oficial da matéria as cópias eletrônicas dos seguintes documentos:\r\n- Manifesto ao PL 2630/2020, da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom, datado de 1° de junho de 2020;\r\n- Documento da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom, datado de 24 de junho de 2020;\r\n- Documento do Conselho Empresarial Brasil-Estados Unidos da U.S. Chamber of Commerce, datado de 25 de junho de 2020;\r\n- Documento da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom, datado de 25 de junho de 2020;\r\n- Ofício n° 034_2020, da Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - FEDERAÇÃO ASSESPRO.\r\nÀ SEXPE, por devolução.",
+     "documentosAssociados": [
+      {
+       "id": 8868992,
+       "tipo": "Documento Não categorizado",
+       "siglaTipo": "DOMA_NAOCAT",
+       "identificacao": "Documento Não categorizado",
+       "descricao": "Manifesto ao PL 2630/2020 -  Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom",
+       "data": "2020-06-01T00:00:00",
+       "autoria": "Cidadão Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/6297695e-4694-4792-90c5-1469444c8a94"
+      },
+      {
+       "id": 8869014,
+       "tipo": "Documento Não categorizado",
+       "siglaTipo": "DOMA_NAOCAT",
+       "identificacao": "Documento Não categorizado",
+       "descricao": "Documento da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom, datado de 24 de junho de 2020",
+       "data": "2020-06-24T00:00:00",
+       "autoria": "Cidadão Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ff4b8763-f83c-4b7c-9db9-83cf86ff4f13"
+      },
+      {
+       "id": 8869048,
+       "tipo": "Ofício",
+       "siglaTipo": "OFICIO",
+       "identificacao": "Ofício",
+       "descricao": "Ofício _n° 034_2020 da Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - FEDERAÇÃO ASSESPRO",
+       "data": "2020-06-25T00:00:00",
+       "autoria": "Cidadão Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - FEDERAÇÃO ASSESPRO",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/594a49ea-ba1e-4ab6-8b97-49491e8cd262"
+      },
+      {
+       "id": 8869022,
+       "tipo": "Documento Não categorizado",
+       "siglaTipo": "DOMA_NAOCAT",
+       "identificacao": "Documento Não categorizado",
+       "descricao": "Documento do Conselho Empresarial Brasil-Estados Unidos da U.S. Chamber of Commerce, datado de 25 de julho de 2020",
+       "data": "2020-06-25T00:00:00",
+       "autoria": "Cidadão Conselho Empresarial Brasil-Estados Unidos da U.S. Chamber of Commerce",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/255d0bee-af01-4555-aecb-5131312f9646"
+      },
+      {
+       "id": 8869040,
+       "tipo": "Documento Não categorizado",
+       "siglaTipo": "DOMA_NAOCAT",
+       "identificacao": "Documento Não categorizado",
+       "descricao": "- Documento da Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom, datado de 25 de junho de 2020;",
+       "data": "2020-06-25T00:00:00",
+       "autoria": "Cidadão Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - Brasscom",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/ff966554-8b4a-48ff-ba4f-a325e480ca83"
+      }
+     ]
+    },
+    {
+     "id": 2045240,
+     "data": "2021-01-19 18:41:43",
+     "colegiado": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     },
+     "enteAdministrativo": {
+      "id": 55305,
+      "casa": "SF",
+      "sigla": "ATRSGM",
+      "nome": "Assessoria Técnica"
+     },
+     "descricao": "Juntadas à página oficial da matéria as cópias eletrônicas dos seguintes documentos:\r\n- 0ficio_nº 041_2020, da Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - FEDERAÇÃO ASSESPRO\r\n- Of. PR/DL 107/2020, da Câmara Municipal de Jundiaí -SP;\r\n- Manifestação da Câmara Brasileira de Comércio Eletrônico (CÂMARA-E.NET).\r\nÀ SEXPE, por devolução.",
+     "documentosAssociados": [
+      {
+       "id": 8920333,
+       "tipo": "Carta",
+       "siglaTipo": "CARTA",
+       "identificacao": "Carta",
+       "descricao": "0ficio_nº 041_2020, da Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - FEDERAÇÃO ASSESPRO",
+       "data": "2021-01-19T18:49:12",
+       "autoria": "Cidadão Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - FEDERAÇÃO ASSESPRO",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/dac5d50b-cec5-40b6-910c-282d6d1a1f2b"
+      },
+      {
+       "id": 8920337,
+       "tipo": "Ofício",
+       "siglaTipo": "OFICIO",
+       "identificacao": "Ofício",
+       "descricao": "Of. PR/DL 107/2020, da Câmara Municipal de Jundiaí -SP",
+       "data": "2021-01-19T18:55:03",
+       "autoria": "Cidadão Câmara Municipal de Jundiaí -SP",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/8b470073-c01f-4a5b-9492-18bfa0ca0c93"
+      },
+      {
+       "id": 8920339,
+       "tipo": "Carta",
+       "siglaTipo": "CARTA",
+       "identificacao": "Carta",
+       "descricao": "Manifestação da Câmara Brasileira de Comércio Eletrônico (CÂMARA-E.NET)",
+       "data": "2021-01-19T18:56:14",
+       "autoria": "Cidadão Câmara Brasileira de Comércio Eletrônico (CÂMARA-E.NET)",
+       "url": "https://legis.senado.leg.br/sdleg-getter/dadosabertos/documento/4165c913-5d4e-4510-a773-30200e68efaa"
+      }
+     ]
+    }
+   ],
+   "movimentacoes": [
+    {
+     "id": 8859584,
+     "dataEnvio": "2020-05-13 19:42:29",
+     "enteOrigem": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "dataRecebimento": "2020-06-01 16:00:40",
+     "enteDestino": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "colegiadoDestino": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    {
+     "id": 8859585,
+     "dataEnvio": "2020-06-02 15:26:20",
+     "enteOrigem": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "dataRecebimento": null,
+     "enteDestino": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859586,
+     "dataEnvio": "2020-06-02 21:22:22",
+     "enteOrigem": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "dataRecebimento": null,
+     "enteDestino": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859587,
+     "dataEnvio": "2020-06-03 11:41:16",
+     "enteOrigem": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "dataRecebimento": null,
+     "enteDestino": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859588,
+     "dataEnvio": "2020-06-03 11:45:32",
+     "enteOrigem": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "dataRecebimento": null,
+     "enteDestino": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859589,
+     "dataEnvio": "2020-06-25 18:53:00",
+     "enteOrigem": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "dataRecebimento": null,
+     "enteDestino": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859590,
+     "dataEnvio": "2020-06-25 19:42:39",
+     "enteOrigem": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "dataRecebimento": "2020-06-25 20:47:42",
+     "enteDestino": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859591,
+     "dataEnvio": "2020-06-25 20:47:42",
+     "enteOrigem": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "dataRecebimento": "2020-06-26 11:08:30",
+     "enteDestino": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "colegiadoDestino": {
+      "codigo": 1998,
+      "casa": "SF",
+      "sigla": "PLEN",
+      "nome": "Plenário do Senado Federal"
+     }
+    },
+    {
+     "id": 8859592,
+     "dataEnvio": "2020-06-30 17:16:45",
+     "enteOrigem": {
+      "id": 55312,
+      "casa": "SF",
+      "sigla": "SLSF",
+      "nome": "Secretaria Legislativa do Senado Federal"
+     },
+     "dataRecebimento": "2020-06-30 21:24:22",
+     "enteDestino": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859597,
+     "dataEnvio": "2020-06-30 21:24:22",
+     "enteOrigem": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "dataRecebimento": null,
+     "enteDestino": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8859599,
+     "dataEnvio": "2020-06-30 21:32:14",
+     "enteOrigem": {
+      "id": 13594,
+      "casa": "SF",
+      "sigla": "SEADI",
+      "nome": "Secretaria de Atas e Diários"
+     },
+     "dataRecebimento": "2020-07-01 19:45:03",
+     "enteDestino": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8868953,
+     "dataEnvio": "2020-07-27 15:09:25",
+     "enteOrigem": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "dataRecebimento": "2020-07-27 15:39:14",
+     "enteDestino": {
+      "id": 55305,
+      "casa": "SF",
+      "sigla": "ATRSGM",
+      "nome": "Assessoria Técnica"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8875895,
+     "dataEnvio": "2020-08-12 14:42:21",
+     "enteOrigem": {
+      "id": 55305,
+      "casa": "SF",
+      "sigla": "ATRSGM",
+      "nome": "Assessoria Técnica"
+     },
+     "dataRecebimento": "2020-08-28 14:24:03",
+     "enteDestino": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8920258,
+     "dataEnvio": "2021-01-18 15:05:44",
+     "enteOrigem": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "dataRecebimento": "2021-01-18 16:19:07",
+     "enteDestino": {
+      "id": 55305,
+      "casa": "SF",
+      "sigla": "ATRSGM",
+      "nome": "Assessoria Técnica"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 8952708,
+     "dataEnvio": "2021-04-16 11:46:57",
+     "enteOrigem": {
+      "id": 55305,
+      "casa": "SF",
+      "sigla": "ATRSGM",
+      "nome": "Assessoria Técnica"
+     },
+     "dataRecebimento": "2021-04-19 10:47:55",
+     "enteDestino": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "colegiadoDestino": {}
+    },
+    {
+     "id": 9097484,
+     "dataEnvio": "2022-03-29 14:38:28",
+     "enteOrigem": {
+      "id": 55304,
+      "casa": "SF",
+      "sigla": "SEXPE",
+      "nome": "Secretaria de Expediente"
+     },
+     "dataRecebimento": "2022-03-30 08:28:44",
+     "enteDestino": {
+      "id": 55299,
+      "casa": "SF",
+      "sigla": "COARQ",
+      "nome": "Coordenação de Arquivo"
+     },
+     "colegiadoDestino": {}
+    }
+   ]
+  }
+ ],
+ "deliberacao": {
+  "data": "2020-06-30",
+  "siglaTipo": "APROVADA_NO_PLENARIO",
+  "tipoDeliberacao": "Aprovada pelo Plenário",
+  "idDestino": 1,
+  "siglaDestino": "CAMARA",
+  "destino": "À Câmara dos Deputados"
+ },
+ "normaGerada": {}
+}
