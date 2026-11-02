@@ -28,12 +28,15 @@ O documento deixou de ser o produto e virou acampamento-base. Cada expedição v
 ### Próximas, em ordem sugerida
 
 1. [~] **Pôr o repositório de pé.** Repositório `guitorte/data` criado e arquivos enviados em 2 nov. 2026. Falta uma primeira sessão no Claude Code que leia o `CLAUDE.md` e o `estado-atual.md`.
-2. [ ] **Tramitação dos projetos sobre plataformas.** A pergunta é se a lei vira prazo (suspeita 9).
-   - Começar pelo PL 2630: apresentação, desfecho, intervalos parados, entradas e saídas de pauta, pedidos de urgência sem votação.
-   - Registrar o que veio antes de cada adiamento: campanha das plataformas, eleição próxima ou crise.
-   - Medir a janela de omissão: o tempo entre o Congresso travar um tema e o Judiciário decidi-lo.
-   - Usar como grupo de controle projetos de complexidade parecida que não tratam de plataformas.
-   - As APIs da Câmara e do Senado já responderam.
+2. [~] **Tramitação dos projetos sobre plataformas.** A pergunta é se a lei vira prazo (suspeita 9). Previsão P2 registrada em 2 nov. 2026. Etapas, com o esforço recomendado entre parênteses:
+   - [ ] 2.1 Protocolo, antes de abrir os dados: definições, regra de seleção, grupo de controle, janela eleitoral (alto)
+   - [ ] 2.2 Coleta da tramitação do PL 2630 no Senado e na Câmara, por script (baixo)
+   - [ ] 2.3 Linha do tempo do PL 2630: intervalos parados, pautas, urgências (médio)
+   - [ ] 2.4 O que veio antes de cada adiamento relevante: campanhas, eleições, crises, com fontes datadas (alto)
+   - [ ] **Pausa:** um caso só não testa a P2; decidir se vale montar o universo de projetos
+   - [ ] 2.5 Universo de projetos sobre plataformas e grupo de controle: seleção e coleta (médio)
+   - [ ] 2.6 Comparação e teste da P2, com grau de certeza (alto)
+   - [ ] 2.7 Registro: base, fontes, achados, estado atual, commit (baixo)
 3. [ ] **Base 3 ampliada.**
    - Discursos da Câmara, que têm texto integral.
    - Quem fala dos ministros, e por qual partido.

@@ -22,6 +22,8 @@ Datas em 2026. "Usuário" é Guilherme; "proposta" é o que o Claude sugeriu e a
 | 2 nov. | Montar a Base 3 (saliência dos ministros) e catalogar sempre as fontes e os dados levantados | usuário | "Acho importante termos um registro do que foi consultado e dos dados levantados." |
 | 2 nov. | Mover o projeto para o GitHub e trabalhar com o Claude Code | usuário | Organizar evolução, fontes e dados, e transitar entre conversas longas. |
 | 2 nov. | Livros e documentos de terceiros com direitos ficam fora do repositório | conversa | Direito autoral. Os livros seguem no Google Drive. |
+| 2 nov. | Registrar a previsão P2 (atraso legislativo: estratégia ou complexidade) antes de abrir os dados | usuário ("Registre") | `docs/previsoes.md`. |
+| 2 nov. | Toda tarefa é dividida em etapas com nível de esforço recomendado, e o usuário confirma antes de prosseguir | usuário | Economizar tokens e concentrar esforço onde um erro se propaga. Regra em `CLAUDE.md`. |
 | 2 nov. | O repositório é `guitorte/data` e é público | usuário | Escolha feita depois do aviso de que o rascunho e as notas de trabalho ficariam abertos. |
 
 ## Pendentes

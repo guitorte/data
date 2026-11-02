@@ -29,6 +29,10 @@ A formulação completa e o histórico estão em `docs/tese-e-hipoteses.md`.
 4. **Definir a fonte da verdade.** Proposta: daqui em diante o repositório é a versão canônica, e o Claude Docs fica congelado em 2 nov. 2026 como versão de leitura. Sem isso, os dois divergem.
 5. *(Superada pela migração.)* Reorganizar as abas do documento em manuscrito e laboratório. O repositório já faz essa separação (`manuscrito/` contra `dossies/`, `bases/` e `docs/`).
 
+## Em andamento
+
+A **expedição da tramitação** (ROADMAP, item 2) começou com a previsão P2 registrada em 2 nov. 2026. A próxima etapa é o protocolo (2.1), que fixa as definições antes de abrir os dados. As etapas e o esforço recomendado para cada uma estão no `ROADMAP.md`.
+
 ## Próximos passos
 
 A ordem está no `ROADMAP.md`. Em resumo:

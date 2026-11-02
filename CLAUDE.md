@@ -28,6 +28,17 @@ Este é o repositório de pesquisa "A lei como preço", de Guilherme. Ele estuda
 - **Teste do espelho:** um mecanismo proposto precisa explicar os usos de todos os lados, ou de nenhum.
 - **Busque evidência contra a tese,** não só a favor. Quando surgir uma explicação mais simples, não reinterprete a hipótese para caber nela; escreva o que precisaria ser verdade para a hipótese ainda valer e vá checar só isso.
 
+## Como dividir o trabalho
+
+Antes de começar uma tarefa com mais de um passo, divida-a em etapas e recomende um nível de esforço para cada uma. Espere o usuário confirmar ou alterar antes de prosseguir. O objetivo é economizar onde o trabalho é mecânico e gastar onde um erro se propaga.
+
+- **Baixo:** execução com caminho conhecido, como rodar um script já escrito, baixar dados de uma API testada ou registrar e fazer commit.
+- **Médio:** código novo ou análise com poucas decisões de julgamento.
+- **Alto:** decisões de desenho (protocolo, definições, seleção de casos), interpretação de evidência e textos que entram nos achados ou na tese.
+- **Máximo:** só para decisões que mudam o rumo do trabalho, como a escolha da pergunta no ponto de controle.
+
+Para economizar: scripts gravam os resultados em arquivo e mostram só resumos; nada de despejar JSON grande na conversa.
+
 ## Como registrar o trabalho
 
 Toda expedição de pesquisa deixa três rastros:
