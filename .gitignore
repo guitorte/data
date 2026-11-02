@@ -1,0 +1,15 @@
+# Livros e textos com direito autoral: ficam no Google Drive (pasta "Pdfs"), nunca no repositório
+livros/
+fontes/terceiros/
+*.epub
+*.mobi
+
+# Temporários e ambiente
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+tmp/
+scratch/
+.env
+.venv/
