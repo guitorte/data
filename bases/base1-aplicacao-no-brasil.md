@@ -40,3 +40,12 @@ Inferências nossas, com poucos eventos.
 2. TELETIME. Moraes revoga bloqueio do Telegram. 20 mar. 2022. <https://teletime.com.br/20/03/2022/moraes-revoga-bloqueio-do-telegram/>
 3. INFOMONEY. Moraes manda Telegram remover mensagens contrárias ao PL das Fake News e publicar retratação; empresa cumpre ordens. 10 mai. 2023. <https://www.infomoney.com.br/?p=2130050>
 4. MIGALHAS. Moraes inclui Elon Musk no inquérito das milícias digitais. 7–8 abr. 2024. <https://www.migalhas.com.br/quentes/404983/moraes-inclui-elon-musk-no-inquerito-das-milicias-digitais>
+
+## Pistas da entrada (2 nov. 2026, não verificadas)
+
+Vieram de outras conversas, importadas para `entrada/`. Cada pista só vira linha da base depois de a fonte original ser lida.
+
+- **Notificações extrajudiciais da AGU (Procuradoria Nacional de Defesa da Democracia):** pedidos de remoção enviados direto às plataformas, sem ordem judicial, com base na nova leitura do art. 19. Segundo a própria AGU, parte interessada, 88,2% foram atendidos ao menos em parte (nov. 2025). Não há lista pública dos pedidos. Os casos citados são a Meta (bets, ago. 2025; chatbots, ago. 2025), o Google (nudes falsos) e o X (críticas ao PL da Misoginia, abr. 2026). Fonte: `entrada/triados/2026-10-07_chat_marco-civil-art19-notificacoes.md`. Interessa à H1: obediência sem guincho, pelo custo da responsabilidade civil.
+- **Senacon contra o Google, maio 2023:** medida com base no Código de Defesa do Consumidor contra o link da página inicial que atacava o PL 2630; o link saiu logo depois (Agência Brasil, 2 maio 2023). Fonte: `entrada/triados/2026-10-07_chat_marco-civil-art19-notificacoes.md`. Também serve à etapa 2.4 da tramitação.
+- **TSE e um deputado federal, set. e out. 2026:** ordem de remoção de post (30 set.); depois, proibição de republicar conteúdos já removidos em seis processos e ordem à Meta e ao X para bloquear impulsionamento pago. A página do TSE apareceu na pesquisa original. Fonte: `entrada/triados/2026-11-01_chat_nikolas-ferreira-ambiguidade.md`. Preenche parte da lacuna "ordens do TSE".
+- **Art. 19 do Marco Civil:** julgamento do STF em 26 jun. 2025 (notícia do próprio STF), embargos concluídos em jun. 2026 com 60 dias de adequação, ajuste da tese em ago. 2026. Decreto 12.975, de 21 maio 2026, com fiscalização da ANPD e "dever de cuidado", em vigor desde 20 jul. 2026. Fonte: `entrada/triados/2026-10-07_chat_marco-civil-art19-notificacoes.md`.

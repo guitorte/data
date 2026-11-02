@@ -13,7 +13,8 @@ O PL 2630 **não é um caso cego.** Antes de abrir qualquer dado, a conversa e a
 - o PL 2630/2020 nasceu e foi aprovado no Senado em 2020;
 - Google e Telegram fizeram campanha contra ele em 2023;
 - ele "morreu" na Câmara;
-- o STF julgou o artigo 19 do Marco Civil em jun. 2025.
+- o STF julgou o artigo 19 do Marco Civil em jun. 2025;
+- (acrescentado em 2 nov. 2026, ainda antes da aprovação e dos dados) uma conversa importada informa que, em maio de 2023, a Senacon usou o Código de Defesa do Consumidor contra o link do Google que atacava o PL 2630, e que a regra sobre plataformas veio depois por decreto (12.975/2026) e pela tese do STF, "até o Congresso aprovar nova lei".
 
 Por isso, o PL 2630 entra como **estudo de caso**, que ilustra e descreve. O **teste** da P2 é a comparação da seção 4, em que não conhecemos o resultado dos outros projetos. Os resultados serão apresentados com e sem o PL 2630. A versão sem ele é a cega.
 

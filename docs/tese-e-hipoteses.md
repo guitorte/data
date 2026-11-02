@@ -148,3 +148,17 @@ Para cada ideia de estimação, o resultado que faria desistir dela.
 | A derrota rende (7) | |
 | A escalada procura rostos (6) | |
 | Velocidade compra credibilidade e paga em legitimidade | |
+
+## 10. Suspeitas vindas da entrada (2 nov. 2026, não testadas)
+
+18. **O guincho silencioso.** Depois do novo art. 19, a obediência pode vir sem exclusão. Basta que a plataforma passe a responder civilmente se não remover depois de uma notificação. Um regime de responsabilidade faria o trabalho do guincho, em silêncio e caso a caso. Isso refina a H1 e muda o lugar da disputa: o rótulo "censura silenciosa" passa a mirar o governo que notifica, não o tribunal. *Confirmaria:* taxa de atendimento das notificações antes e depois de jun. 2025, medida por fonte independente da AGU. Fonte: `entrada/triados/2026-10-07_chat_marco-civil-art19-notificacoes.md`.
+19. **Sanções conversíveis.** Toda sanção a um ator político de plataforma (verbal, judicial ou da própria plataforma) vira conteúdo de perseguição. O que separa as sanções é o resíduo: as formais tiram post, cortam impulsionamento e impõem vigilância. Isso se liga à suspeita 7 e à H4. *Confirmaria:* comparar o alcance do conteúdo sancionado com o do não sancionado, e a sanção formal com a verbal. Fonte: `entrada/triados/2026-11-01_chat_nikolas-ferreira-ambiguidade.md`.
+20. **O político como negócio de mídia dependente de plataformas.** O parlamentar com contas monetizadas é, ele próprio, uma pequena plataforma que depende das grandes. Se for assim, a "lei como preço" vale também para ele, e a aliança com as plataformas tem base material, não só ideológica. É uma ponte com a ideologia de aluguel. Fonte: `entrada/triados/2026-11-01_chat_nikolas-ferreira-ambiguidade.md`.
+
+**Pistas de literatura** trazidas pela mesma conversa, para a revisão de literatura (não lidas aqui):
+
+- Törnberg e Chueri (2025), sobre desinformação e direita radical em 26 países;
+- Rathje, Van Bavel e van der Linden (2021), sobre animosidade contra o grupo rival e engajamento;
+- Maurer e outros (2023), sobre as provocações da AfD;
+- Hinterleitner e Sager (2022), sobre erosão de normas;
+- Rogers e outros (2017), sobre *paltering*: enganar com afirmações verdadeiras.

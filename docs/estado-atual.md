@@ -33,6 +33,10 @@ A formulação completa e o histórico estão em `docs/tese-e-hipoteses.md`.
 
 A **expedição da tramitação** (ROADMAP, item 2) começou com a previsão P2 registrada em 2 nov. 2026. O protocolo (2.1) está escrito em `docs/protocolos/tramitacao.md` e aguarda a aprovação do usuário. Nenhum dado de tramitação foi aberto. As etapas e o esforço recomendado para cada uma estão no `ROADMAP.md`.
 
+## Entrada
+
+Em 2 nov. 2026 foram importadas três conversas do usuário (só as respostas), triadas e registradas em `entrada/triagem.md`. As pistas foram para a Base 1, a Base 3 e a seção 10 de `docs/tese-e-hipoteses.md`. Nenhuma foi conferida ainda. Essa conferência é a etapa de esforço alto, que depende do aval do usuário.
+
 ## Próximos passos
 
 A ordem está no `ROADMAP.md`. Em resumo:
@@ -51,7 +55,7 @@ Depois dos passos 2 e 3, vem o ponto de controle 1.
 Coisas citadas **de memória** na conversa, que não podem entrar no texto sem fonte lida:
 
 - Culpepper e Thelen, sobre os usuários como fonte do poder político das plataformas.
-- Oscar Vilhena Vieira, "Supremocracia"; Diego Werneck Arguelhes e Leandro Molhano Ribeiro, "Ministrocracia".
+- Oscar Vilhena Vieira, "Supremocracia". Para "Ministrocracia" já há referência, vinda da entrada: Arguelhes e Ribeiro, *Novos Estudos CEBRAP*, v. 37, n. 1, 2018. Falta ler.
 - Raymond Fisman (2001), sobre o valor das conexões políticas com Suharto.
 - O apoio financeiro americano a Milei atrelado às eleições legislativas de 2025.
 - Os "Twitter Files" (2022–2023) e os relatórios da Comissão de Justiça da Câmara dos EUA sobre o Brasil (2024).

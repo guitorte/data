@@ -115,3 +115,17 @@ Em 2 jul. 2025, depois que o Congresso derrubou o decreto que aumentava o IOF e 
 3. METRÓPOLES. Senado nunca avançou com pedidos de impeachment de ministros do STF. 14 fev. 2026. <https://www.metropoles.com/brasil/senado-nunca-avancou-com-pedidos-de-impeachment-de-ministros-do-stf>. Trechos: “nenhuma avançou até a fase final de julgamento no plenário do Senado”; “A análise de um pedido de impeachment começa pelo presidente do Senado”.
 4. O IMPARCIAL. Impeachment de Moraes exige 54 votos no Senado, mas oposição reúne apenas 41 assinaturas. 7 ago. 2025. <https://oimparcial.com.br/noticias/2025/08/impeachment-de-moraes-exige-54-votos-no-senado-mas-oposicao-reune-apenas-41-assinaturas/>. Trecho: “Na história da Casa Legislativa, nenhum processo de afastamento de ministro do STF chegou a ser efetivamente julgado.”
 5. CNN BRASIL. Lula diz que não governa se não for ao STF: “cada macaco no seu galho”. 2 jul. 2025. <https://www.cnnbrasil.com.br/politica/lula-diz-que-nao-governa-se-nao-for-ao-stf-cada-macaco-no-seu-galho/>. Indicada pelo autor.
+
+## Pistas da entrada (2 nov. 2026, não verificadas)
+
+Vieram de outra conversa, importada em `entrada/triados/2026-10-11_chat_stf-governos-lula-bolsonaro.md`. São candidatas a tabela própria, "quem aciona o STF", depois de conferidas.
+
+- **Ações do governo no STF:** governo Lula, 19 até abr. 2025; governo Bolsonaro, 17 no mandato inteiro. Fonte única: Estadão, via TNH1, com dados do Corte Aberta do STF. Conferir no Corte Aberta.
+- **Ações contra o governo Bolsonaro:** 45 nos nove primeiros meses de 2019, sendo 27 de partidos, 12 de entidades de classe e 6 da PGR (Estadão Conteúdo, 22 set. 2019).
+- **O espelho das falas.** Em 2019, o líder do governo Bolsonaro no Senado disse: "Quem não tem voto, judicializa". Em 2025, Lula: "Se eu não for à Suprema Corte, eu não governo mais o país" (Folhapress, por outra origem que a CNN já registrada acima).
+- **Reação do Congresso:**
+  - PEC que limita decisões individuais, aprovada no Senado por 52 a 18 (nov. 2023);
+  - rejeição da indicação de Jorge Messias ao STF por 42 a 34 (abr. 2026), a primeira desde 1894;
+  - proposta de Lira, em 2023, de exigir 20% do Congresso para um partido acionar o STF.
+- **Imagem do STF:** Datafolha de set. 2026, com 47% de ruim ou péssimo, recorde da série iniciada em 2019; 76% acham que os ministros têm poder demais; 71% acham o tribunal essencial à democracia.
+- **Ministrocracia:** Arguelhes e Ribeiro, *Novos Estudos CEBRAP*, v. 37, n. 1, 2018. Na outra conversa, só o resumo foi lido.
